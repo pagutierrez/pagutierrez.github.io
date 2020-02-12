@@ -6,7 +6,7 @@ excerpt: 'JCR(2018): 5.785 Position: 16/134 (Q1) Category: COMPUTER SCIENCE, ART
 date: 2020-01-01
 venue: 'Neural Networks'
 paperurl: 'http://doi.org/10.1016/j.neunet.2019.12.017'
-citation: ' Manuel Dorado-Moreno,  N. Navarin,  Pedro Antonio Gutiérrez,  L. Prieto,  A. Sperduti,  Sancho Salcedo-Sanz,  César Hervás-Martínez, &quot;Multi-task learning for the prediction of wind power ramp events with deep neural networks.&quot; Neural Networks, Vol. 123, 2020, pp. 401-411.'
+citation: ' Manuel Dorado-Moreno,  N. Navarin,  Pedro Antonio Gutiérrez,  L. Prieto,  A. Sperduti,  Sancho Salcedo-Sanz,  César Hervás-Martínez, &quot;Multi-task learning for the prediction of wind power ramp events with deep neural networks.&quot; Neural Networks, Vol.123, 2020, pp.401-411.'
 ---
 JCR(2018): 5.785 Position: 16/134 (Q1) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
 

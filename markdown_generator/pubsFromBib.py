@@ -24,12 +24,14 @@ import html
 import os
 import re
 
+from pylatexenc.latex2text import LatexNodes2Text
+
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
     "proceeding": {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
+        "venue-pretext": "Proceedings of ",
         "collection" : {"name":"publications",
                         "permalink":"/publication/"}
         
@@ -71,23 +73,22 @@ for pubsource in publist:
             pub_year = f'{b["year"]}'
 
             #todo: this hack for month and day needs some cleanup
-            if "month" in b.keys(): 
-                if(len(b["month"])<3):
-                    pub_month = "0"+b["month"]
-                    pub_month = pub_month[-2:]
-                elif(b["month"] not in range(12)):
-                    tmnth = strptime(b["month"][:3],'%b').tm_mon   
-                    pub_month = "{:02d}".format(tmnth) 
-                else:
-                    pub_month = str(b["month"])
+            #if "month" in b.keys(): 
+            #    if(len(b["month"])<3):
+            #        pub_month = "0"+b["month"]
+            #        pub_month = pub_month[-2:]
+            #    elif(b["month"] not in range(12)):
+            #        tmnth = strptime(b["month"][:3],'%b').tm_mon   
+            #        pub_month = "{:02d}".format(tmnth) 
+            #    else:
+            #        pub_month = str(b["month"])
             if "day" in b.keys(): 
                 pub_day = str(b["day"])
-
                 
             pub_date = pub_year+"-"+pub_month+"-"+pub_day
             
             #strip out {} as needed (some bibtex entries that maintain formatting)
-            clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
+            clean_title = LatexNodes2Text().latex_to_text(b["title"]).replace("{", "").replace("}","").replace("\\","").replace(" ","-").replace("á","a").replace("é","e").replace("í","i").replace("ó","o").replace("ú","u").replace("Á","A").replace("É","E").replace("Í","I").replace("Ó","O").replace("Ú","U").replace("ñ","n").replace("ñ","Ñ")   
 
             url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
             url_slug = url_slug.replace("--","-")
@@ -100,22 +101,36 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
+                if author.middle_names:
+                    citation = citation+" "+LatexNodes2Text().latex_to_text(author.first_names[0])+" "+LatexNodes2Text().latex_to_text(author.middle_names[0])+" "+LatexNodes2Text().latex_to_text(author.last_names[0])+", "
+                else:
+                    citation = citation+" "+LatexNodes2Text().latex_to_text(author.first_names[0])+" "+LatexNodes2Text().latex_to_text(author.last_names[0])+", "
 
             #citation title
-            citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
+            citation = citation + "\"" + html_escape(LatexNodes2Text().latex_to_text(b["title"]).replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
-            venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
+            venue = publist[pubsource]["venue-pretext"]+LatexNodes2Text().latex_to_text(b[publist[pubsource]["venuekey"]]).replace("{", "").replace("}","").replace("\\","")
 
-            citation = citation + " " + html_escape(venue)
-            citation = citation + ", " + pub_year + "."
+            citation += " " + html_escape(venue)
+            if "volume" in b.keys() and b["volume"]:
+                citation += ", Vol." + b["volume"]
+            if "number" in b.keys() and b["number"]:
+                citation += "(" + b["number"] + ")"
+            citation += ", " + pub_year
+            if "organization" in b.keys() and b["organization"]:
+                citation += ", " + html_escape(LatexNodes2Text().latex_to_text(b["organization"]))
+            if "pages" in b.keys() and b["pages"]:
+                citation += ", pp." + b["pages"]
+            citation += "."
+
+
 
             
             ## YAML variables
-            md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
+            md = "---\ntitle: \""   + html_escape(LatexNodes2Text().latex_to_text(b["title"]).replace("{", "").replace("}","").replace("\\","")) + '"\n'
             
-            md += """collection: """ +  publist[pubsource]["collection"]["name"]
+            md += """collection: """ +  LatexNodes2Text().latex_to_text(publist[pubsource]["collection"]["name"])
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
             
@@ -127,12 +142,15 @@ for pubsource in publist:
 
             md += "\ndate: " + str(pub_date) 
 
-            md += "\nvenue: '" + html_escape(venue) + "'"
+            md += "\nvenue: '" + html_escape(LatexNodes2Text().latex_to_text(venue)) + "'"
             
             url = False
             if "url" in b.keys():
                 if len(str(b["url"])) > 5:
-                    md += "\npaperurl: '" + b["url"] + "'"
+                    if b["url"].startswith('http://') or b["url"].startswith('https://'):
+                        md += "\npaperurl: '" + b["url"] + "'"
+                    else:
+                        md += "\npaperurl: 'http://" + b["url"] + "'"
                     url = True
 
             md += "\ncitation: '" + html_escape(citation) + "'"
@@ -145,7 +163,10 @@ for pubsource in publist:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
             if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+                if b["url"].startswith('http://') or b["url"].startswith('https://'):
+                    md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+                else:
+                    md += "\n[Access paper here](http://" + b["url"] + "){:target=\"_blank\"}\n" 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
