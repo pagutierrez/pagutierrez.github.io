@@ -1,4 +1,4 @@
-—
+---
 title: "Metrics to guide a multi-objective evolutionary algorithm for ordinal classification"
 collection: publications
 permalink: /publication/2014-01-01-Metrics-to-guide-a-multi-objective-evolutionary-algorithm-for-ordinal-classification
@@ -6,8 +6,8 @@ excerpt: 'JCR(2014): 2.083 Position: 36/123 (Q2) Category: COMPUTER SCIENCE, ART
 date: 2014-01-01
 venue: 'Neurocomputing'
 paperurl: 'http://dx.doi.org/10.1016/j.neucom.2013.05.058'
-citation: ' Manuel Cruz-Ram&apos;irez,  C&apos;esar Herv&apos;as-Mart&apos;inez,  Javier S&apos;anchez-Monedero,  Pedro Guti&apos;errez,    quot;Metrics to guide a multi-objective evolutionary algorithm for ordinal classification.   quot; Neurocomputing, 2014.'
-—
+citation: ' Manuel Cruz-Ramírez,  César Hervás-Martínez,  Javier Sánchez-Monedero,  Pedro Gutiérrez, &quot;Metrics to guide a multi-objective evolutionary algorithm for ordinal classification.&quot; Neurocomputing, 2014.'
+---
 JCR(2014): 2.083 Position: 36/123 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
 
-[Access paper here](http://dx.doi.org/10.1016/j.neucom.2013.05.058):target="_blank"
+[Access paper here](http://dx.doi.org/10.1016/j.neucom.2013.05.058){:target="_blank"}

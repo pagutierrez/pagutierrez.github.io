@@ -1,4 +1,4 @@
-—
+---
 title: "MELM-GRBF: A modified version of the Extreme Learning Machine for Generalized Radial Basis Function Neural Networks"
 collection: publications
 permalink: /publication/2011-01-01-MELM-GRBF-A-modified-version-of-the-Extreme-Learning-Machine-for-Generalized-Radial-Basis-Function-Neural-Networks
@@ -6,8 +6,8 @@ excerpt: 'JCR (2011): 1.580 (category COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE,
 date: 2011-01-01
 venue: 'Neurocomputing'
 paperurl: 'http://dx.doi.org/10.1016/j.neucom.2010.11.032'
-citation: ' Francisco Fernandez-Navarro,  C&apos;esar Herv&apos;as-Mart&apos;inez,  Javier S&apos;anchez-Monedero,  Pedro Guti&apos;errez,    quot;MELM-GRBF: A modified version of the Extreme Learning Machine for Generalized Radial Basis Function Neural Networks.   quot; Neurocomputing, 2011.'
-—
+citation: ' Francisco Fernandez-Navarro,  César Hervás-Martínez,  Javier Sánchez-Monedero,  Pedro Gutiérrez, &quot;MELM-GRBF: A modified version of the Extreme Learning Machine for Generalized Radial Basis Function Neural Networks.&quot; Neurocomputing, 2011.'
+---
 JCR (2011): 1.580 (category COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE, position 39/111 Q2)
 
-[Access paper here](http://dx.doi.org/10.1016/j.neucom.2010.11.032):target="_blank"
+[Access paper here](http://dx.doi.org/10.1016/j.neucom.2010.11.032){:target="_blank"}

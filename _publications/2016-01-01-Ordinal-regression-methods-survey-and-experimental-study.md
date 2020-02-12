@@ -1,4 +1,4 @@
-—
+---
 title: "Ordinal regression methods: survey and experimental study"
 collection: publications
 permalink: /publication/2016-01-01-Ordinal-regression-methods-survey-and-experimental-study
@@ -6,8 +6,8 @@ excerpt: 'JCR(2016): 3.438 Position: 21/146 (Q1) Category: COMPUTER SCIENCE, INF
 date: 2016-01-01
 venue: 'IEEE Transactions on Knowledge and Data Engineering'
 paperurl: 'http://dx.doi.org/10.1109/TKDE.2015.2457911'
-citation: ' Pedro Guti&apos;errez,  Mar&apos;ia P&apos;erez-Ortiz,  Javier S&apos;anchez-Monedero,  Francisco Fernandez-Navarro,  C&apos;esar Herv&apos;as-Mart&apos;inez,    quot;Ordinal regression methods: survey and experimental study.   quot; IEEE Transactions on Knowledge and Data Engineering, 2016.'
-—
+citation: ' Pedro Gutiérrez,  María Pérez-Ortiz,  Javier Sánchez-Monedero,  Francisco Fernandez-Navarro,  César Hervás-Martínez, &quot;Ordinal regression methods: survey and experimental study.&quot; IEEE Transactions on Knowledge and Data Engineering, 2016.'
+---
 JCR(2016): 3.438 Position: 21/146 (Q1) Category: COMPUTER SCIENCE, INFORMATION SYSTEMS
 
-[Access paper here](http://dx.doi.org/10.1109/TKDE.2015.2457911):target="_blank"
+[Access paper here](http://dx.doi.org/10.1109/TKDE.2015.2457911){:target="_blank"}

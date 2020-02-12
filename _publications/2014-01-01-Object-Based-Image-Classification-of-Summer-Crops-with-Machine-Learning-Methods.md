@@ -1,4 +1,4 @@
-—
+---
 title: "Object-Based Image Classification of Summer Crops with Machine Learning Methods"
 collection: publications
 permalink: /publication/2014-01-01-Object-Based-Image-Classification-of-Summer-Crops-with-Machine-Learning-Methods
@@ -6,8 +6,8 @@ excerpt: 'JCR(2014): 3.180 Position: 5/28 (Q1) Category: REMOTE SENSING'
 date: 2014-01-01
 venue: 'Remote Sensing'
 paperurl: 'http://dx.doi.org/10.3390/rs6065019'
-citation: ' J.M. Peña-Barrag&apos;an,  Pedro Guti&apos;errez,  C&apos;esar Herv&apos;as-Mart&apos;inez,  Johan Six,  Richard Plant,  F. L&apos;opez-Granados,    quot;Object-Based Image Classification of Summer Crops with Machine Learning Methods.   quot; Remote Sensing, 2014.'
-—
+citation: ' J.M. Peña-Barragán,  Pedro Gutiérrez,  César Hervás-Martínez,  Johan Six,  Richard Plant,  F. López-Granados, &quot;Object-Based Image Classification of Summer Crops with Machine Learning Methods.&quot; Remote Sensing, 2014.'
+---
 JCR(2014): 3.180 Position: 5/28 (Q1) Category: REMOTE SENSING
 
-[Access paper here](http://dx.doi.org/10.3390/rs6065019):target="_blank"
+[Access paper here](http://dx.doi.org/10.3390/rs6065019){:target="_blank"}

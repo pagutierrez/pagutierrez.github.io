@@ -1,4 +1,4 @@
-—
+---
 title: "Oversampling the minority class in the feature space"
 collection: publications
 permalink: /publication/2016-01-01-Oversampling-the-minority-class-in-the-feature-space
@@ -6,8 +6,8 @@ excerpt: 'JCR(2016): 6.108 Position: 3/104 (Q1) Category: COMPUTER SCIENCE, THEO
 date: 2016-01-01
 venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 paperurl: 'ieeexplore.ieee.org/document/7222438/'
-citation: ' Mar&apos;ia P&apos;erez-Ortiz,  Pedro Guti&apos;errez,  Peter Tino,  C&apos;esar Herv&apos;as-Mart&apos;inez,    quot;Oversampling the minority class in the feature space.   quot; IEEE Transactions on Neural Networks and Learning Systems, 2016.'
-—
-JCR(2016): 6.108 Position: 3/104 (Q1) Category: COMPUTER SCIENCE, THEORY &amp; METHODS
+citation: ' María Pérez-Ortiz,  Pedro Gutiérrez,  Peter Tino,  César Hervás-Martínez, &quot;Oversampling the minority class in the feature space.&quot; IEEE Transactions on Neural Networks and Learning Systems, 2016.'
+---
+JCR(2016): 6.108 Position: 3/104 (Q1) Category: COMPUTER SCIENCE, THEORY {\&amp;} METHODS
 
-[Access paper here](ieeexplore.ieee.org/document/7222438/):target="_blank"
+[Access paper here](ieeexplore.ieee.org/document/7222438/){:target="_blank"}

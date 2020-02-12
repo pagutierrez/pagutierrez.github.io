@@ -1,4 +1,4 @@
-—
+---
 title: "A two-stage evolutionary algorithm based on sensitivity and accuracy for multi-class problems"
 collection: publications
 permalink: /publication/2012-01-01-A-two-stage-evolutionary-algorithm-based-on-sensitivity-and-accuracy-for-multi-class-problems
@@ -6,8 +6,8 @@ excerpt: 'JCR (2012): 3.893 (category COMPUTER SCIENCE, INFORMATION SYSTEMS, pos
 date: 2012-01-01
 venue: 'Information Sciences'
 paperurl: 'http://dx.doi.org/10.1016/j.ins.2012.02.012'
-citation: ' Pedro Guti&apos;errez,  C&apos;esar Herv&apos;as-Mart&apos;inez,  Francisco Mart&apos;inez-Estudillo,  Mariano Carbonero-Ruz,    quot;A two-stage evolutionary algorithm based on sensitivity and accuracy for multi-class problems.   quot; Information Sciences, 2012.'
-—
+citation: ' Pedro Gutiérrez,  César Hervás-Martínez,  Francisco Martínez-Estudillo,  Mariano Carbonero-Ruz, &quot;A two-stage evolutionary algorithm based on sensitivity and accuracy for multi-class problems.&quot; Information Sciences, 2012.'
+---
 JCR (2012): 3.893 (category COMPUTER SCIENCE, INFORMATION SYSTEMS, position 6/132, Q1)
 
-[Access paper here](http://dx.doi.org/10.1016/j.ins.2012.02.012):target="_blank"
+[Access paper here](http://dx.doi.org/10.1016/j.ins.2012.02.012){:target="_blank"}

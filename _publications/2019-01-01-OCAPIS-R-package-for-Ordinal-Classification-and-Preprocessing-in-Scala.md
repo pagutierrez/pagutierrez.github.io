@@ -1,10 +1,10 @@
-—
+---
 title: "OCAPIS: R package for Ordinal Classification and Preprocessing in Scala"
 collection: publications
 permalink: /publication/2019-01-01-OCAPIS-R-package-for-Ordinal-Classification-and-Preprocessing-in-Scala
 date: 2019-01-01
 venue: 'Progress in Artificial Intelligence'
 paperurl: 'doi.org/10.1007/s13748-019-00175-1'
-citation: ' Mar&apos;ia Heredia-G&apos;omez,  Salvador Garc&apos;ia,  Pedro Guti&apos;errez,  Francisco Herrera,    quot;OCAPIS: R package for Ordinal Classification and Preprocessing in Scala.   quot; Progress in Artificial Intelligence, 2019.'
-—
-[Access paper here](doi.org/10.1007/s13748-019-00175-1):target="_blank"
+citation: ' María Heredia-Gómez,  Salvador García,  Pedro Gutiérrez,  Francisco Herrera, &quot;OCAPIS: R package for Ordinal Classification and Preprocessing in Scala.&quot; Progress in Artificial Intelligence, 2019.'
+---
+[Access paper here](doi.org/10.1007/s13748-019-00175-1){:target="_blank"}
