@@ -32,8 +32,8 @@ publist = {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",
         "venue-pretext": "Proceedings of ",
-        "collection" : {"name":"proceedings",
-                        "permalink":"/proceedings/"}
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
         
     },
     "journal":{

@@ -1,7 +1,7 @@
 ---
 title: "Asignación de órganos en trasplante hepático mediante regresión ordinal"
-collection: proceedings
-permalink: /proceedings/2013-01-01-Asignacion-de-organos-en-trasplante-hepatico-mediante-regresion-ordinal
+collection: publications
+permalink: /publication/2013-01-01-Asignacion-de-organos-en-trasplante-hepatico-mediante-regresion-ordinal
 date: 2013-01-01
 venue: 'Proceedings of Actas del VII Simposio de Teoría y Aplicaciones de Minería de Datos (TAMIDA2013), XV Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA 2013)'
 citation: ' César Hervás-Martínez,  María Pérez-Ortiz,  Manuel Cruz-Ramírez,  Pedro Antonio Gutiérrez, &quot;Asignación de órganos en trasplante hepático mediante regresión ordinal.&quot; Proceedings of Actas del VII Simposio de Teoría y Aplicaciones de Minería de Datos (TAMIDA2013), XV Conferencia de la Asociación Española para la Inteligencia Artificial (CAEPIA 2013), 2013, Madrid (Spain), pp.1343-1352.'

@@ -1,7 +1,7 @@
 ---
 title: "Detection of early warning signals in paleoclimate data using a genetic time series segmentation algorithm"
-collection: proceedings
-permalink: /proceedings/2018-01-01-Detection-of-early-warning-signals-in-paleoclimate-data-using-a-genetic-time-series-segmentation-algorithm
+collection: publications
+permalink: /publication/2018-01-01-Detection-of-early-warning-signals-in-paleoclimate-data-using-a-genetic-time-series-segmentation-algorithm
 date: 2018-01-01
 venue: 'Proceedings of Proceedings of the 2018 European Planetary Science Congress'
 paperurl: 'http://meetingorganizer.copernicus.org/EPSC2018/EPSC2018-829-1.pdf'

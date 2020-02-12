@@ -1,7 +1,7 @@
 ---
 title: "Methodology for the recognition and diagnosis of students performance by discriminant analisys and artificial neural networks"
-collection: proceedings
-permalink: /proceedings/2010-01-01-Methodology-for-the-recognition-and-diagnosis-of-students-performance-by-discriminant-analisys-and-artificial-neural-networks
+collection: publications
+permalink: /publication/2010-01-01-Methodology-for-the-recognition-and-diagnosis-of-students-performance-by-discriminant-analisys-and-artificial-neural-networks
 date: 2010-01-01
 venue: 'Proceedings of 1st International Conference on EUropean Transnational Education (ICEUTE2010)'
 citation: ' Javier Sánchez-Monedero,  Pedro Antonio Gutiérrez,  César Hervás-Martínez,  Manuel Cruz-Ramírez,  Juan Carlos Fernández,  Francisco Fernandez-Navarro, &quot;Methodology for the recognition and diagnosis of students performance by discriminant analisys and artificial neural networks.&quot; Proceedings of 1st International Conference on EUropean Transnational Education (ICEUTE2010), 2010, Burgos, Spain, pp.107-115.'

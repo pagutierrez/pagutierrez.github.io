@@ -1,7 +1,7 @@
 ---
 title: "A coral reef optimization algorithm for wave height time series segmentation problems"
-collection: proceedings
-permalink: /proceedings/2017-01-01-A-coral-reef-optimization-algorithm-for-wave-height-time-series-segmentation-problems
+collection: publications
+permalink: /publication/2017-01-01-A-coral-reef-optimization-algorithm-for-wave-height-time-series-segmentation-problems
 date: 2017-01-01
 venue: 'Proceedings of 14th International Work-Conference on Artificial and Natural Neural Networks (IWANN2017)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-319-59153-7_58'

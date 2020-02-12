@@ -1,7 +1,7 @@
 ---
 title: "A n-spheres based synthetic data generator for supervised classification"
-collection: proceedings
-permalink: /proceedings/2013-01-01-A-n-spheres-based-synthetic-data-generator-for-supervised-classification
+collection: publications
+permalink: /publication/2013-01-01-A-n-spheres-based-synthetic-data-generator-for-supervised-classification
 date: 2013-01-01
 venue: 'Proceedings of International Work Conference on Artificial Neural Networks (IWANN 2013)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-642-38679-4_62'

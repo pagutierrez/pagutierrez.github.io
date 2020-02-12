@@ -1,7 +1,7 @@
 ---
 title: "Image classification of synaptic dopamine transporters 123I-Ioflupane by machine learning techniques"
-collection: proceedings
-permalink: /proceedings/2017-01-01-Image-classification-of-synaptic-dopamine-transporters-123I-Ioflupane-by-machine-learning-techniques
+collection: publications
+permalink: /publication/2017-01-01-Image-classification-of-synaptic-dopamine-transporters-123I-Ioflupane-by-machine-learning-techniques
 date: 2017-01-01
 venue: 'Proceedings of Proceedings of the 2017 Annual Congress of the European Association of Nuclear Medicine (EANM17)'
 paperurl: 'http://doi.org/10.1007/s00259-017-3822-1'

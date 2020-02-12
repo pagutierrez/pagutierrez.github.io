@@ -1,7 +1,7 @@
 ---
 title: "Classification by means Evolutionary Product-Unit Neural Networks"
-collection: proceedings
-permalink: /proceedings/2006-01-01-Classification-by-means-Evolutionary-Product-Unit-Neural-Networks
+collection: publications
+permalink: /publication/2006-01-01-Classification-by-means-Evolutionary-Product-Unit-Neural-Networks
 date: 2006-01-01
 venue: 'Proceedings of IEEE International Joint Conference on Neural Networks (IJCNN 2006)'
 citation: ' César Hervás-Martínez,  Francisco José Martínez-Estudillo,  Pedro Antonio Gutiérrez, &quot;Classification by means Evolutionary Product-Unit Neural Networks.&quot; Proceedings of IEEE International Joint Conference on Neural Networks (IJCNN 2006), 2006, pp.2834--2842.'

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the linearity of Ordinal Logistic Regression adding non-linear covariates from Evolutionary Hybrid Neural Network models"
-collection: proceedings
-permalink: /proceedings/2015-01-01-Overcoming-the-linearity-of-Ordinal-Logistic-Regression-adding-non-linear-covariates-from-Evolutionary-Hybrid-Neural-Network-models
+collection: publications
+permalink: /publication/2015-01-01-Overcoming-the-linearity-of-Ordinal-Logistic-Regression-adding-non-linear-covariates-from-Evolutionary-Hybrid-Neural-Network-models
 date: 2015-01-01
 venue: 'Proceedings of 16th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2015)'
 paperurl: 'http://doi.org/10.1007/978-3-319-24598-0_27'

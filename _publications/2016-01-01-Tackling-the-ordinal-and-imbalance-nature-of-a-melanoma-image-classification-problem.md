@@ -1,7 +1,7 @@
 ---
 title: "Tackling the ordinal and imbalance nature of a melanoma image classification problem"
-collection: proceedings
-permalink: /proceedings/2016-01-01-Tackling-the-ordinal-and-imbalance-nature-of-a-melanoma-image-classification-problem
+collection: publications
+permalink: /publication/2016-01-01-Tackling-the-ordinal-and-imbalance-nature-of-a-melanoma-image-classification-problem
 date: 2016-01-01
 venue: 'Proceedings of IEEE International Joint Conference on Neural Networks (IJCNN2016)'
 paperurl: 'http://doi.org/10.1109/IJCNN.2016.7727466'

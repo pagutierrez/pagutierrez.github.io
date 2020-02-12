@@ -1,7 +1,7 @@
 ---
 title: "Numerical variable reconstruction from ordinal categories based on probability distributions"
-collection: proceedings
-permalink: /proceedings/2011-01-01-Numerical-variable-reconstruction-from-ordinal-categories-based-on-probability-distributions
+collection: publications
+permalink: /publication/2011-01-01-Numerical-variable-reconstruction-from-ordinal-categories-based-on-probability-distributions
 date: 2011-01-01
 venue: 'Proceedings of 11th International Conference on Intelligent Systems Design andApplications (ISDA 2011)'
 citation: ' Javier Sánchez-Monedero,  Mariano Carbonero-Ruz,  David Becerra-Alonso,  Francisco José Martínez-Estudillo,  Pedro Antonio Gutiérrez,  César Hervás-Martínez, &quot;Numerical variable reconstruction from ordinal categories based on probability distributions.&quot; Proceedings of 11th International Conference on Intelligent Systems Design andApplications (ISDA 2011), 2011, pp.1182-1187.'
