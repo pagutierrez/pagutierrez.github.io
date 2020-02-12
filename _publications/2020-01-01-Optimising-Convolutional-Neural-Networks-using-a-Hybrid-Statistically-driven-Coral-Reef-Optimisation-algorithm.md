@@ -1,0 +1,13 @@
+---
+title: "Optimising Convolutional Neural Networks using a Hybrid Statistically-driven Coral Reef Optimisation algorithm"
+collection: publications
+permalink: /publication/2020-01-01-Optimising-Convolutional-Neural-Networks-using-a-Hybrid-Statistically-driven-Coral-Reef-Optimisation-algorithm
+excerpt: 'JCR(2018): 4.873 Position: 20/133 (Q1) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE'
+date: 2020-01-01
+venue: 'Applied Soft Computing'
+paperurl: 'https://doi.org/10.1016/j.asoc.2020.106144'
+citation: ' Alejandro Mart{\&apos;i}n,  V{\&apos;i}ctor Vargas-Yun,  Pedro Guti{\&apos;e}rrez,  David Camacho,  C{\&apos;e}sar Herv{\&apos;a}s-Mart{\&apos;i}nez, &quot;Optimising Convolutional Neural Networks using a Hybrid Statistically-driven Coral Reef Optimisation algorithm.&quot; Applied Soft Computing, 2020.'
+---
+JCR(2018): 4.873 Position: 20/133 (Q1) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
+
+[Access paper here](https://doi.org/10.1016/j.asoc.2020.106144){:target="_blank"}
