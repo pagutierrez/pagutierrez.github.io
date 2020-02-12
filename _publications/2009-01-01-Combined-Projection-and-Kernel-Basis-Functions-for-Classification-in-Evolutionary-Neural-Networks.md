@@ -1,4 +1,4 @@
----
+—
 title: "Combined Projection and Kernel Basis Functions for Classification in Evolutionary Neural Networks"
 collection: publications
 permalink: /publication/2009-01-01-Combined-Projection-and-Kernel-Basis-Functions-for-Classification-in-Evolutionary-Neural-Networks
@@ -6,8 +6,8 @@ excerpt: 'JCR (2009): 1.440 Position: 47/103 (Q2) Category: COMPUTER SCIENCE, AR
 date: 2009-01-01
 venue: 'Neurocomputing'
 paperurl: 'http://doi.org/10.1016/j.neucom.2008.09.020'
-citation: ' Pedro Guti{\&apos;e}rrez,  C{\&apos;e}sar Herv{\&apos;a}s-Mart{\&apos;i}nez,  Mariano Carbonero-Ruz,  Juan Fern{\&apos;a}ndez, &quot;Combined Projection and Kernel Basis Functions for Classification in Evolutionary Neural Networks.&quot; Neurocomputing, 2009.'
----
+citation: ' Pedro Guti&apos;errez,  C&apos;esar Herv&apos;as-Mart&apos;inez,  Mariano Carbonero-Ruz,  Juan Fern&apos;andez,    quot;Combined Projection and Kernel Basis Functions for Classification in Evolutionary Neural Networks.   quot; Neurocomputing, 2009.'
+—
 JCR (2009): 1.440 Position: 47/103 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
 
-[Access paper here](http://doi.org/10.1016/j.neucom.2008.09.020){:target="_blank"}
+[Access paper here](http://doi.org/10.1016/j.neucom.2008.09.020):target="_blank"

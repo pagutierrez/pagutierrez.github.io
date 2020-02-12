@@ -1,4 +1,4 @@
----
+—
 title: "A structural distance based crossover for neural network classifiers"
 collection: publications
 permalink: /publication/2012-01-01-A-structural-distance-based-crossover-for-neural-network-classifiers
@@ -6,8 +6,8 @@ excerpt: 'JCR (2012): 0.562 (category COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE,
 date: 2012-01-01
 venue: 'International Journal of Pattern Recognition and Artificial Intelligence'
 paperurl: 'http://dx.doi.org/10.1142/S0218001412500127'
-citation: ' Manuel Moreno,  Pedro Guti{\&apos;e}rrez,  C{\&apos;e}sar Herv{\&apos;a}s-Mart{\&apos;i}nez, &quot;A structural distance based crossover for neural network classifiers.&quot; International Journal of Pattern Recognition and Artificial Intelligence, 2012.'
----
+citation: ' Manuel Moreno,  Pedro Guti&apos;errez,  C&apos;esar Herv&apos;as-Mart&apos;inez,    quot;A structural distance based crossover for neural network classifiers.   quot; International Journal of Pattern Recognition and Artificial Intelligence, 2012.'
+—
 JCR (2012): 0.562 (category COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE, position 94/115 Q4)
 
-[Access paper here](http://dx.doi.org/10.1142/S0218001412500127){:target="_blank"}
+[Access paper here](http://dx.doi.org/10.1142/S0218001412500127):target="_blank"

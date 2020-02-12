@@ -1,4 +1,4 @@
----
+—
 title: "Ensembles of evolutionary product unit or RBF neural networks for the identification of sound for pass-by noise test in vehicles"
 collection: publications
 permalink: /publication/2013-01-01-Ensembles-of-evolutionary-product-unit-or-RBF-neural-networks-for-the-identification-of-sound-for-pass-by-noise-test-in-vehicles
@@ -6,8 +6,8 @@ excerpt: 'JCR (2013): 2.005 (category COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE,
 date: 2013-01-01
 venue: 'Neurocomputing'
 paperurl: 'http://dx.doi.org/10.1016/j.neucom.2012.03.022'
-citation: ' M. Redel-Mac{\&apos;i}as,  Francisco Fernandez-Navarro,  Pedro Guti{\&apos;e}rrez,  Antonio Cubero-Atienza,  C{\&apos;e}sar Herv{\&apos;a}s-Mart{\&apos;i}nez, &quot;Ensembles of evolutionary product unit or RBF neural networks for the identification of sound for pass-by noise test in vehicles.&quot; Neurocomputing, 2013.'
----
+citation: ' M. Redel-Mac&apos;ias,  Francisco Fernandez-Navarro,  Pedro Guti&apos;errez,  Antonio Cubero-Atienza,  C&apos;esar Herv&apos;as-Mart&apos;inez,    quot;Ensembles of evolutionary product unit or RBF neural networks for the identification of sound for pass-by noise test in vehicles.   quot; Neurocomputing, 2013.'
+—
 JCR (2013): 2.005 (category COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE, position 28/121 Q1)
 
-[Access paper here](http://dx.doi.org/10.1016/j.neucom.2012.03.022){:target="_blank"}
+[Access paper here](http://dx.doi.org/10.1016/j.neucom.2012.03.022):target="_blank"

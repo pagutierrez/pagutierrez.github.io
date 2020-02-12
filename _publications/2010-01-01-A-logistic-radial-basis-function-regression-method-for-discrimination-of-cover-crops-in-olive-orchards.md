@@ -1,13 +1,13 @@
----
+—
 title: "A logistic radial basis function regression method for discrimination of cover crops in olive orchards"
 collection: publications
 permalink: /publication/2010-01-01-A-logistic-radial-basis-function-regression-method-for-discrimination-of-cover-crops-in-olive-orchards
-excerpt: 'JCR (2010): 1.926 (category OPERATIONS RESEARCH {\&amp;} MANAGEMENT SCIENCE, position 15/75, Q1)'
+excerpt: 'JCR (2010): 1.926 (category OPERATIONS RESEARCH &amp; MANAGEMENT SCIENCE, position 15/75, Q1)'
 date: 2010-01-01
 venue: 'Expert Systems with Applications'
 paperurl: 'http://dx.doi.org/10.1016/j.eswa.2010.05.035'
-citation: ' C{\&apos;e}sar Herv{\&apos;a}s-Mart{\&apos;i}nez,  Pedro Guti{\&apos;e}rrez,  J.M Pe{\~n}a-Barrag{\&apos;a}n,  M. Jurado-Exp{\&apos;o}sito,  F. L{\&apos;o}pez-Granados, &quot;A logistic radial basis function regression method for discrimination of cover crops in olive orchards.&quot; Expert Systems with Applications, 2010.'
----
-JCR (2010): 1.926 (category OPERATIONS RESEARCH {\&amp;} MANAGEMENT SCIENCE, position 15/75, Q1)
+citation: ' C&apos;esar Herv&apos;as-Mart&apos;inez,  Pedro Guti&apos;errez,  J.M Peña-Barrag&apos;an,  M. Jurado-Exp&apos;osito,  F. L&apos;opez-Granados,    quot;A logistic radial basis function regression method for discrimination of cover crops in olive orchards.   quot; Expert Systems with Applications, 2010.'
+—
+JCR (2010): 1.926 (category OPERATIONS RESEARCH &amp; MANAGEMENT SCIENCE, position 15/75, Q1)
 
-[Access paper here](http://dx.doi.org/10.1016/j.eswa.2010.05.035){:target="_blank"}
+[Access paper here](http://dx.doi.org/10.1016/j.eswa.2010.05.035):target="_blank"

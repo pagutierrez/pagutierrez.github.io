@@ -1,4 +1,4 @@
----
+—
 title: "Multi-objective evolutionary optimization using the relationship between F1 and accuracy metrics in classification tasks"
 collection: publications
 permalink: /publication/2019-01-01-Multi-objective-evolutionary-optimization-using-the-relationship-between-F1-and-accuracy-metrics-in-classification-tasks
@@ -6,8 +6,8 @@ excerpt: 'JCR(2018): 2.882 Position: 46/133 (Q2) Category: COMPUTER SCIENCE, ART
 date: 2019-01-01
 venue: 'Applied Intelligence'
 paperurl: 'http://doi.org/10.1007/s10489-019-01447-y'
-citation: ' Juan Fern{\&apos;a}ndez,  Mariano Carbonero-Ruz,  Pedro Guti{\&apos;e}rrez,  C{\&apos;e}sar Herv{\&apos;a}s-Mart{\&apos;i}nez, &quot;Multi-objective evolutionary optimization using the relationship between F1 and accuracy metrics in classification tasks.&quot; Applied Intelligence, 2019.'
----
+citation: ' Juan Fern&apos;andez,  Mariano Carbonero-Ruz,  Pedro Guti&apos;errez,  C&apos;esar Herv&apos;as-Mart&apos;inez,    quot;Multi-objective evolutionary optimization using the relationship between F1 and accuracy metrics in classification tasks.   quot; Applied Intelligence, 2019.'
+—
 JCR(2018): 2.882 Position: 46/133 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
 
-[Access paper here](http://doi.org/10.1007/s10489-019-01447-y){:target="_blank"}
+[Access paper here](http://doi.org/10.1007/s10489-019-01447-y):target="_blank"
