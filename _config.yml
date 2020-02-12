@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Pedro Antonio Gutiérrez"
-  avatar           : "http://www.uco.es/~i02gupep/pedroNueva.png"
+  avatar           : "profile.png"
   bio              : "Assistant Professor at University of Córdoba. Main research areas: machine learning, ordinal classification, evolutionary neural networks, application of these techniques to real problems (renewable energies, precision agriculture, biomedicine...)."
   location         : "Córdoba, Spain"
   employer         :
