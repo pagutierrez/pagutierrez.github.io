@@ -1,7 +1,7 @@
 ---
 title: "Multiclass Prediction of Wind Power Ramp Events Combining Reservoir Computing and Support Vector Machines"
-collection: publications
-permalink: /publication/2016-01-01-Multiclass-Prediction-of-Wind-Power-Ramp-Events-Combining-Reservoir-Computing-and-Support-Vector-Machines
+collection: proceedings
+permalink: /proceedings/2016-01-01-Multiclass-Prediction-of-Wind-Power-Ramp-Events-Combining-Reservoir-Computing-and-Support-Vector-Machines
 date: 2016-01-01
 venue: 'Proceedings of Proceedings of the 17th Conference of the Spanish Association for Artificial Intelligence (CAEPIA 2016)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-319-44636-3_28'

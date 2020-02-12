@@ -1,7 +1,7 @@
 ---
 title: "An ensemble approach for ordinal threshold models applied to liver transplantation"
-collection: publications
-permalink: /publication/2012-01-01-An-ensemble-approach-for-ordinal-threshold-models-applied-to-liver-transplantation
+collection: proceedings
+permalink: /proceedings/2012-01-01-An-ensemble-approach-for-ordinal-threshold-models-applied-to-liver-transplantation
 date: 2012-01-01
 venue: 'Proceedings of 2012 International Joint Conference on Neural Networks (IJCNN)'
 paperurl: 'http://dx.doi.org/10.1109/IJCNN.2012.6252755'

@@ -1,7 +1,7 @@
 ---
 title: "A mixture of experts model for predicting persistent weather patterns"
-collection: publications
-permalink: /publication/2018-01-01-A-mixture-of-experts-model-for-predicting-persistent-weather-patterns
+collection: proceedings
+permalink: /proceedings/2018-01-01-A-mixture-of-experts-model-for-predicting-persistent-weather-patterns
 date: 2018-01-01
 venue: 'Proceedings of Proceedings of the 2018 IEEE International Joint Conference on Neural Networks (IJCNN 2018)'
 paperurl: 'http://doi.org/10.1109/IJCNN.2018.8489179'

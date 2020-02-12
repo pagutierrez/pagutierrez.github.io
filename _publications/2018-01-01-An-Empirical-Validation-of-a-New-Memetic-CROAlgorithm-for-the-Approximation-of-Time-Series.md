@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Validation of a New Memetic CROAlgorithm for the Approximation of Time Series"
-collection: publications
-permalink: /publication/2018-01-01-An-Empirical-Validation-of-a-New-Memetic-CROAlgorithm-for-the-Approximation-of-Time-Series
+collection: proceedings
+permalink: /proceedings/2018-01-01-An-Empirical-Validation-of-a-New-Memetic-CROAlgorithm-for-the-Approximation-of-Time-Series
 date: 2018-01-01
 venue: 'Proceedings of Proceedings of the 2018 Conference of the Spanish Association for Artificial Intelligence (CAEPIA2018)'
 paperurl: 'http://doi.org/10.1007/978-3-030-00374-6_20'

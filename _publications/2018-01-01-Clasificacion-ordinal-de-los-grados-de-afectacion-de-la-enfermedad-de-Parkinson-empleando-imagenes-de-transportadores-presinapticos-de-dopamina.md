@@ -1,7 +1,7 @@
 ---
 title: "Clasificación ordinal de los grados de afectación de la enfermedad de Parkinson empleando imágenes de transportadores presinápticos de dopamina"
-collection: publications
-permalink: /publication/2018-01-01-Clasificacion-ordinal-de-los-grados-de-afectacion-de-la-enfermedad-de-Parkinson-empleando-imagenes-de-transportadores-presinapticos-de-dopamina
+collection: proceedings
+permalink: /proceedings/2018-01-01-Clasificacion-ordinal-de-los-grados-de-afectacion-de-la-enfermedad-de-Parkinson-empleando-imagenes-de-transportadores-presinapticos-de-dopamina
 date: 2018-01-01
 venue: 'Proceedings of Proceedings of the 2018 Conference of the Spanish Association for Artificial Intelligence (CAEPIA2018)'
 paperurl: 'http://sci2s.ugr.es/caepia18/proceedings/docs/CAEPIA2018_paper_111.pdf'

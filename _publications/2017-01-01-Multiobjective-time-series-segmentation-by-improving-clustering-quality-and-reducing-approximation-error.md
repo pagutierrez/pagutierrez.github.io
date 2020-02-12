@@ -1,7 +1,7 @@
 ---
 title: "Multiobjective time series segmentation by improving clustering quality and reducing approximation error"
-collection: publications
-permalink: /publication/2017-01-01-Multiobjective-time-series-segmentation-by-improving-clustering-quality-and-reducing-approximation-error
+collection: proceedings
+permalink: /proceedings/2017-01-01-Multiobjective-time-series-segmentation-by-improving-clustering-quality-and-reducing-approximation-error
 date: 2017-01-01
 venue: 'Proceedings of Proceeding of the Metaheuristics International Conference (MIC 2017) and the XII Metaheurísticas, Algoritmos Evolutivos y Bioinspirados (MAEB 2017) Conference'
 paperurl: 'http://www.dropbox.com/s/vzt9wway5knp6ue/Proceedings%20MIC-MAEB%202017.pdf?dl=0'

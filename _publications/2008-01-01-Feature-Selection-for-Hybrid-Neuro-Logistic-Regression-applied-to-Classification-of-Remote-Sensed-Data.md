@@ -1,7 +1,7 @@
 ---
 title: "Feature Selection for Hybrid Neuro-Logistic Regression applied to Classification of Remote Sensed Data"
-collection: publications
-permalink: /publication/2008-01-01-Feature-Selection-for-Hybrid-Neuro-Logistic-Regression-applied-to-Classification-of-Remote-Sensed-Data
+collection: proceedings
+permalink: /proceedings/2008-01-01-Feature-Selection-for-Hybrid-Neuro-Logistic-Regression-applied-to-Classification-of-Remote-Sensed-Data
 date: 2008-01-01
 venue: 'Proceedings of 8th International Conference on Hybrid Intelligent Systems (HIS08)'
 citation: ' Pedro Antonio Gutiérrez,  Juan Carlos Fernández,  César Hervás-Martínez,  F. López Granados,  M. Jurado Expósito,  J.M Peña-Barragán, &quot;Feature Selection for Hybrid Neuro-Logistic Regression applied to Classification of Remote Sensed Data.&quot; Proceedings of 8th International Conference on Hybrid Intelligent Systems (HIS08), 2008, Barcelona, Spain, pp.625--630.'

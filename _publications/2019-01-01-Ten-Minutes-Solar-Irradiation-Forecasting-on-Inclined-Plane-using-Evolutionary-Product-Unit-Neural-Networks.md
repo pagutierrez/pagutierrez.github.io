@@ -1,7 +1,7 @@
 ---
 title: "Ten Minutes Solar Irradiation Forecasting on Inclined Plane using Evolutionary Product Unit Neural Networks"
-collection: publications
-permalink: /publication/2019-01-01-Ten-Minutes-Solar-Irradiation-Forecasting-on-Inclined-Plane-using-Evolutionary-Product-Unit-Neural-Networks
+collection: proceedings
+permalink: /proceedings/2019-01-01-Ten-Minutes-Solar-Irradiation-Forecasting-on-Inclined-Plane-using-Evolutionary-Product-Unit-Neural-Networks
 date: 2019-01-01
 venue: 'Proceedings of Proceedings of the 2019 International Conference of Computer Science and Renewable Energies (ICCSRE)'
 paperurl: 'http://doi.org/10.1109/ICCSRE.2019.8807613'

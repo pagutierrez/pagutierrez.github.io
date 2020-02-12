@@ -1,7 +1,7 @@
 ---
 title: "Sound source identification in vehicles using a combined Linear-Evolutionary Product Unit Neural Network model"
-collection: publications
-permalink: /publication/2011-01-01-Sound-source-identification-in-vehicles-using-a-combined-Linear-Evolutionary-Product-Unit-Neural-Network-model
+collection: proceedings
+permalink: /proceedings/2011-01-01-Sound-source-identification-in-vehicles-using-a-combined-Linear-Evolutionary-Product-Unit-Neural-Network-model
 date: 2011-01-01
 venue: 'Proceedings of 2011 International Conference on Soft Computing Models in Industrial and Environmental Applications (SOCO11)'
 citation: ' M. D. Redel-Macías,  Pedro Antonio Gutiérrez,  A. Cubero-Atienza,  César Hervás-Martínez, &quot;Sound source identification in vehicles using a combined Linear-Evolutionary Product Unit Neural Network model.&quot; Proceedings of 2011 International Conference on Soft Computing Models in Industrial and Environmental Applications (SOCO11), 2011, pp.379-386.'

@@ -1,7 +1,7 @@
 ---
 title: "Applying a Hybrid Algorithm to the Segmentation of the Spanish Stock Market Index Time Series"
-collection: publications
-permalink: /publication/2015-01-01-Applying-a-Hybrid-Algorithm-to-the-Segmentation-of-the-Spanish-Stock-Market-Index-Time-Series
+collection: proceedings
+permalink: /proceedings/2015-01-01-Applying-a-Hybrid-Algorithm-to-the-Segmentation-of-the-Spanish-Stock-Market-Index-Time-Series
 date: 2015-01-01
 venue: 'Proceedings of 13th International Work-Conference on Artificial Neural Networks (IWANN 2015)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-319-19222-2_6'

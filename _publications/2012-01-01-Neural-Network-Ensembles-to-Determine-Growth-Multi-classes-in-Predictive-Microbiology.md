@@ -1,7 +1,7 @@
 ---
 title: "Neural Network Ensembles to Determine Growth Multi-classes in Predictive Microbiology"
-collection: publications
-permalink: /publication/2012-01-01-Neural-Network-Ensembles-to-Determine-Growth-Multi-classes-in-Predictive-Microbiology
+collection: proceedings
+permalink: /proceedings/2012-01-01-Neural-Network-Ensembles-to-Determine-Growth-Multi-classes-in-Predictive-Microbiology
 date: 2012-01-01
 venue: 'Proceedings of 7th International Conference on Hybrid Artificial Intelligence Systems (HAIS2012)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-642-28931-6_30'

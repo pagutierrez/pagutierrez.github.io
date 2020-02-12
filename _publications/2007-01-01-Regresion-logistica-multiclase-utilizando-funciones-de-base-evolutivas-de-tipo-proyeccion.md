@@ -1,7 +1,7 @@
 ---
 title: "Regresión logística multiclase utilizando funciones de base evolutivas de tipo proyección"
-collection: publications
-permalink: /publication/2007-01-01-Regresion-logistica-multiclase-utilizando-funciones-de-base-evolutivas-de-tipo-proyeccion
+collection: proceedings
+permalink: /proceedings/2007-01-01-Regresion-logistica-multiclase-utilizando-funciones-de-base-evolutivas-de-tipo-proyeccion
 date: 2007-01-01
 venue: 'Proceedings of I Jornadas de Algoritmos Evolutivos y Metaheurísticas (JAEM07)'
 citation: ' César Hervás-Martínez,  Pedro Antonio Gutiérrez,  Juan Carlos Fernández,  Antonio Tallón-Ballesteros, &quot;Regresión logística multiclase utilizando funciones de base evolutivas de tipo proyección.&quot; Proceedings of I Jornadas de Algoritmos Evolutivos y Metaheurísticas (JAEM07), 2007, Zaragoza, España, pp.65--72.'

@@ -1,7 +1,7 @@
 ---
 title: "Multi-scale Support Vector Machine Optimization by Kernel Target-Alignment"
-collection: publications
-permalink: /publication/2013-01-01-Multi-scale-Support-Vector-Machine-Optimization-by-Kernel-Target-Alignment
+collection: proceedings
+permalink: /proceedings/2013-01-01-Multi-scale-Support-Vector-Machine-Optimization-by-Kernel-Target-Alignment
 date: 2013-01-01
 venue: 'Proceedings of 21st European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN2013)'
 paperurl: 'https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-21.pdf'

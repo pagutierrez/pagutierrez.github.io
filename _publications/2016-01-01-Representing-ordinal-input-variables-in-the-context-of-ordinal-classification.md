@@ -1,7 +1,7 @@
 ---
 title: "Representing ordinal input variables in the context of ordinal classification"
-collection: publications
-permalink: /publication/2016-01-01-Representing-ordinal-input-variables-in-the-context-of-ordinal-classification
+collection: proceedings
+permalink: /proceedings/2016-01-01-Representing-ordinal-input-variables-in-the-context-of-ordinal-classification
 date: 2016-01-01
 venue: 'Proceedings of IEEE International Joint Conference on Neural Networks (IJCNN2016)'
 paperurl: 'http://doi.org/10.1109/IJCNN.2016.7727468'
