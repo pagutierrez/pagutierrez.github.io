@@ -1,7 +1,7 @@
 ---
 title: "An iterated greedy algorithm for improving the generation of synthetic patterns in imbalanced learning"
-collection: publications
-permalink: /publication/2017-01-01-An-iterated-greedy-algorithm-for-improving-the-generation-of-synthetic-patterns-in-imbalanced-learning
+collection: proceedings
+permalink: /proceeding/2017-01-01-An-iterated-greedy-algorithm-for-improving-the-generation-of-synthetic-patterns-in-imbalanced-learning
 date: 2017-01-01
 venue: 'Proceedings of 14th International Work-Conference on Artificial and Natural Neural Networks (IWANN2017)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-319-59147-6_44'

@@ -1,7 +1,7 @@
 ---
 title: "Evolutionary ordinal extreme learning machine"
-collection: publications
-permalink: /publication/2013-01-01-Evolutionary-ordinal-extreme-learning-machine
+collection: proceedings
+permalink: /proceeding/2013-01-01-Evolutionary-ordinal-extreme-learning-machine
 date: 2013-01-01
 venue: 'Proceedings of 8th International Conference on Hybrid Artificial Intelligence Systems (HAIS2013)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-642-40846-5_50'

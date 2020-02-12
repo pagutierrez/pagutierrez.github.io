@@ -1,7 +1,7 @@
 ---
 title: "Ensemble determination using the TOPSIS decision support system in multi-objective evolutionary neural network classifiers"
-collection: publications
-permalink: /publication/2010-01-01-Ensemble-determination-using-the-TOPSIS-decision-support-system-in-multi-objective-evolutionary-neural-network-classifiers
+collection: proceedings
+permalink: /proceeding/2010-01-01-Ensemble-determination-using-the-TOPSIS-decision-support-system-in-multi-objective-evolutionary-neural-network-classifiers
 date: 2010-01-01
 venue: 'Proceedings of Proceedings of the 10th International Conference on Intelligent Systems Design and Applications (ISDA2010)'
 citation: ' Manuel Cruz-Ramírez,  Juan Carlos Fernández,  Javier Sánchez-Monedero,  Francisco Fernandez-Navarro,  César Hervás-Martínez,  Pedro Antonio Gutiérrez,  M.T. Lamata, &quot;Ensemble determination using the TOPSIS decision support system in multi-objective evolutionary neural network classifiers.&quot; Proceedings of Proceedings of the 10th International Conference on Intelligent Systems Design and Applications (ISDA2010), 2010, Cairo, Egypt, pp.513-518.'

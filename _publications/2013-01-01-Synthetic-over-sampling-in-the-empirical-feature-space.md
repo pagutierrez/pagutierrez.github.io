@@ -1,7 +1,7 @@
 ---
 title: "Synthetic over-sampling in the empirical feature space"
-collection: publications
-permalink: /publication/2013-01-01-Synthetic-over-sampling-in-the-empirical-feature-space
+collection: proceedings
+permalink: /proceeding/2013-01-01-Synthetic-over-sampling-in-the-empirical-feature-space
 date: 2013-01-01
 venue: 'Proceedings of 21st European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning (ESANN2013)'
 paperurl: 'https://www.elen.ucl.ac.be/Proceedings/esann/esannpdf/es2013-103.pdf'

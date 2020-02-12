@@ -1,7 +1,7 @@
 ---
 title: "Ordinal Evolutionary Artificial Neural Networks for Solving an Imbalanced Liver Transplantation Problem"
-collection: publications
-permalink: /publication/2016-01-01-Ordinal-Evolutionary-Artificial-Neural-Networks-for-Solving-an-Imbalanced-Liver-Transplantation-Problem
+collection: proceedings
+permalink: /proceeding/2016-01-01-Ordinal-Evolutionary-Artificial-Neural-Networks-for-Solving-an-Imbalanced-Liver-Transplantation-Problem
 date: 2016-01-01
 venue: 'Proceedings of 11th International Conference on Hybrid Artificial Intelligent Systems (HAIS2016)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-319-32034-2_38'

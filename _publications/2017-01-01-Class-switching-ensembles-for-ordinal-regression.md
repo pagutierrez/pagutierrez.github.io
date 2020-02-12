@@ -1,7 +1,7 @@
 ---
 title: "Class switching ensembles for ordinal regression"
-collection: publications
-permalink: /publication/2017-01-01-Class-switching-ensembles-for-ordinal-regression
+collection: proceedings
+permalink: /proceeding/2017-01-01-Class-switching-ensembles-for-ordinal-regression
 date: 2017-01-01
 venue: 'Proceedings of 14th International Work-Conference on Artificial and Natural Neural Networks (IWANN2017)'
 paperurl: 'http://dx.doi.org/10.1007/978-3-319-59153-7_36'

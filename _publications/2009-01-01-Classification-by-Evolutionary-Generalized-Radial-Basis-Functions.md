@@ -1,7 +1,7 @@
 ---
 title: "Classification by Evolutionary Generalized Radial Basis Functions"
-collection: publications
-permalink: /publication/2009-01-01-Classification-by-Evolutionary-Generalized-Radial-Basis-Functions
+collection: proceedings
+permalink: /proceeding/2009-01-01-Classification-by-Evolutionary-Generalized-Radial-Basis-Functions
 date: 2009-01-01
 venue: 'Proceedings of 2009 Ninth International Conference on Intelligent Systems Design and Applications (ISDA09)'
 citation: ' Adiel Castaño-Méndez,  Francisco Fernandez-Navarro,  César Hervás-Martínez,  M.M. García,  Pedro Antonio Gutiérrez, &quot;Classification by Evolutionary Generalized Radial Basis Functions.&quot; Proceedings of 2009 Ninth International Conference on Intelligent Systems Design and Applications (ISDA09), 2009, pp.203--208.'

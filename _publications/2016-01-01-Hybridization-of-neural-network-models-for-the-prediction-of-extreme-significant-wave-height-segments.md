@@ -1,7 +1,7 @@
 ---
 title: "Hybridization of neural network models for the prediction of extreme significant wave height segments"
-collection: publications
-permalink: /publication/2016-01-01-Hybridization-of-neural-network-models-for-the-prediction-of-extreme-significant-wave-height-segments
+collection: proceedings
+permalink: /proceeding/2016-01-01-Hybridization-of-neural-network-models-for-the-prediction-of-extreme-significant-wave-height-segments
 date: 2016-01-01
 venue: 'Proceedings of 2016 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2016)'
 paperurl: 'http://dx.doi.org/10.1109/SSCI.2016.7850144'
