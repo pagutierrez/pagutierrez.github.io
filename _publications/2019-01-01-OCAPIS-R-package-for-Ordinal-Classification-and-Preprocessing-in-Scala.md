@@ -5,6 +5,6 @@ permalink: /publication/2019-01-01-OCAPIS-R-package-for-Ordinal-Classification-a
 date: 2019-01-01
 venue: 'Progress in Artificial Intelligence'
 paperurl: 'doi.org/10.1007/s13748-019-00175-1'
-citation: ' María Cristina Heredia-Gómez,  Salvador García,  Pedro Antonio Gutiérrez,  Francisco Herrera, &quot;OCAPIS: R package for Ordinal Classification and Preprocessing in Scala.&quot; Progress in Artificial Intelligence, 2019.'
+citation: ' María Cristina Heredia-Gómez,  Salvador García,  Pedro Antonio Gutiérrez,  Francisco Herrera, &quot;OCAPIS: R package for Ordinal Classification and Preprocessing in Scala.&quot; Progress in Artificial Intelligence, Vol. 8(3), 2019, pp. 287-292.'
 ---
 [Access paper here](doi.org/10.1007/s13748-019-00175-1){:target="_blank"}
