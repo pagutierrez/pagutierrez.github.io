@@ -1,5 +1,5 @@
 ---
-title: "Algoritmos de aprendizaje evolutivo y estad&apos;istico para la determinaci&apos;on de mapas de malas hierbas utilizando t&apos;ecnicas de teledetecci&apos;on"
+title: "Algoritmos de aprendizaje evolutivo y estadístico para la determinación de mapas de malas hierbas utilizando técnicas de teledetección"
 collection: publications
 permalink: /publication/2007-01-01-Algoritmos-de-aprendizaje-evolutivo-y-estadistico-para-la-determinacion-de-mapas-de-malas-hierbas-utilizando-tecnicas-de-teledeteccion
 date: 2007-01-01

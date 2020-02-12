@@ -1,5 +1,5 @@
 ---
-title: "Regresi&apos;on no lineal mediante la evoluci&apos;on de modelos h&apos;ibridos de redes neuronales"
+title: "Regresión no lineal mediante la evolución de modelos híbridos de redes neuronales"
 collection: publications
 permalink: /publication/2005-01-01-Regresion-no-lineal-mediante-la-evolucion-de-modelos-hibridos-de-redes-neuronales
 date: 2005-01-01

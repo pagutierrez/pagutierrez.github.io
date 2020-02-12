@@ -1,5 +1,5 @@
 ---
-title: "Clasificaci&apos;on mediante la Evoluci&apos;on de Modelos H&apos;ibridos de Redes Neuronales"
+title: "Clasificación mediante la Evolución de Modelos Híbridos de Redes Neuronales"
 collection: publications
 permalink: /publication/2007-01-01-Clasificacion-mediante-la-Evolucion-de-Modelos-Hibridos-de-Redes-Neuronales
 date: 2007-01-01

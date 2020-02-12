@@ -1,5 +1,5 @@
 ---
-title: "Ensembles de redes neuronales construidos mediante algoritmos h&apos;ibridos multiobjetivo para optimizar la precisi&apos;on y la sensitividad"
+title: "Ensembles de redes neuronales construidos mediante algoritmos híbridos multiobjetivo para optimizar la precisión y la sensitividad"
 collection: publications
 permalink: /publication/2009-01-01-Ensembles-de-redes-neuronales-construidos-mediante-algoritmos-hibridos-multiobjetivo-para-optimizar-la-precision-y-la-sensitividad
 date: 2009-01-01

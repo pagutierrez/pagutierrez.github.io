@@ -1,5 +1,5 @@
 ---
-title: "ORCA: A Matlab/Octave Toolbox for Ordinal Regression"
+title: "ORCA: AMatlab/Octave Toolbox for Ordinal Regression"
 collection: publications
 permalink: /publication/2019-01-01-ORCA-A-MatlabOctave-Toolbox-for-Ordinal-Regression
 excerpt: 'JCR(2018): 4.091 Position: 27/133 (Q1) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE.'

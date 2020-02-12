@@ -1,5 +1,5 @@
 ---
-title: "Clasificaci&apos;on de im&apos;agenes de transportadores sin&apos;apticos de dopamina con 123I-Ioflupano mediante t&apos;ecnicas de aprendizaje autom&apos;atico"
+title: "Clasificación de imágenes de transportadores sinápticos de dopamina con 123I-Ioflupano mediante técnicas de aprendizaje automático"
 collection: publications
 permalink: /publication/2017-01-01-Clasificacion-de-imagenes-de-transportadores-sinapticos-de-dopamina-con-123I-Ioflupano-mediante-tecnicas-de-aprendizaje-automatico
 date: 2017-01-01

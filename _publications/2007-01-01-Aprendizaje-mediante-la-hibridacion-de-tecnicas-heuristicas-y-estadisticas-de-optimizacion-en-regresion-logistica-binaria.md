@@ -1,5 +1,5 @@
 ---
-title: "Aprendizaje mediante la hibridaci&apos;on de t&apos;ecnicas heur&apos;isticas y estad&apos;isticas de optimizaci&apos;on en regresi&apos;on log&apos;istica binaria"
+title: "Aprendizaje mediante la hibridación de técnicas heurísticas y estadísticas de optimización en regresión logística binaria"
 collection: publications
 permalink: /publication/2007-01-01-Aprendizaje-mediante-la-hibridacion-de-tecnicas-heuristicas-y-estadisticas-de-optimizacion-en-regresion-logistica-binaria
 date: 2007-01-01

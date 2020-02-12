@@ -1,5 +1,5 @@
 ---
-title: "T&apos;ecnica de Hibridaci&apos;on de un Algoritmo Evolutivo y una B&apos;usqueda Local basada en An&apos;alisis Cluster para la Optimizaci&apos;on de Redes Neuronales RBF"
+title: "Técnica de Hibridación de un Algoritmo Evolutivo y una Búsqueda Local basada en Análisis Cluster para la Optimización de Redes Neuronales RBF"
 collection: publications
 permalink: /publication/2009-01-01-Tecnica-de-Hibridacion-de-un-Algoritmo-Evolutivo-y-una-Busqueda-Local-basada-en-Analisis-Cluster-para-la-Optimizacion-de-Redes-Neuronales-RBF
 date: 2009-01-01

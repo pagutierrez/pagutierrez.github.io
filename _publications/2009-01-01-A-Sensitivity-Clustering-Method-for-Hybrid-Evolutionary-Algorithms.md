@@ -1,5 +1,5 @@
 ---
-title: "A Sensitivity Clustering Method for Hybrid Evolutionary Algorithms"
+title: "ASensitivity Clustering Method for Hybrid Evolutionary Algorithms"
 collection: publications
 permalink: /publication/2009-01-01-A-Sensitivity-Clustering-Method-for-Hybrid-Evolutionary-Algorithms
 date: 2009-01-01

@@ -1,5 +1,5 @@
 ---
-title: "Predicci&apos;on a Corto Plazo de la Velocidad del Viento en Parques E&apos;olicos Mediante Redes Evolutivas de Unidades Producto"
+title: "Predicción a Corto Plazo de la Velocidad del Viento en Parques Eólicos Mediante Redes Evolutivas de Unidades Producto"
 collection: publications
 permalink: /publication/2010-01-01-Prediccion-a-Corto-Plazo-de-la-Velocidad-del-Viento-en-Parques-Eolicos-Mediante-Redes-Evolutivas-de-Unidades-Producto
 date: 2010-01-01

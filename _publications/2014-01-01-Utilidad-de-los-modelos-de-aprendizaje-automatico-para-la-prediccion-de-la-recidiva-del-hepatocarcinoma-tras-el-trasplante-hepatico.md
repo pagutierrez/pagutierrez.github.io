@@ -1,5 +1,5 @@
 ---
-title: "Utilidad de los modelos de aprendizaje autom&apos;atico para la predicci&apos;on de la recidiva del hepatocarcinoma tras el trasplante hep&apos;atico"
+title: "Utilidad de los modelos de aprendizaje automático para la predicción de la recidiva del hepatocarcinoma tras el trasplante hepático"
 collection: publications
 permalink: /publication/2014-01-01-Utilidad-de-los-modelos-de-aprendizaje-automatico-para-la-prediccion-de-la-recidiva-del-hepatocarcinoma-tras-el-trasplante-hepatico
 excerpt: 'JCR(2014): 0.838 Position: 80/84 (Q4) Category: GASTROENTEROLOGY &amp; HEPATOLOGY.'

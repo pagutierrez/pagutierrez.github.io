@@ -1,5 +1,5 @@
 ---
-title: "Distribuci&apos;on de Modelos de Redes Neuronales Evolutivas de Unidades Producto para Clasificaci&apos;on"
+title: "Distribución de Modelos de Redes Neuronales Evolutivas de Unidades Producto para Clasificación"
 collection: publications
 permalink: /publication/2007-01-01-Distribucion-de-Modelos-de-Redes-Neuronales-Evolutivas-de-Unidades-Producto-para-Clasificacion
 date: 2007-01-01

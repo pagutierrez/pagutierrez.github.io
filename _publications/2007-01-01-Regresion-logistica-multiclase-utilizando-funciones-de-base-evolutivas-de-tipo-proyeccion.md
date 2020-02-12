@@ -1,5 +1,5 @@
 ---
-title: "Regresi&apos;on log&apos;istica multiclase utilizando funciones de base evolutivas de tipo proyecci&apos;on"
+title: "Regresión logística multiclase utilizando funciones de base evolutivas de tipo proyección"
 collection: publications
 permalink: /publication/2007-01-01-Regresion-logistica-multiclase-utilizando-funciones-de-base-evolutivas-de-tipo-proyeccion
 date: 2007-01-01

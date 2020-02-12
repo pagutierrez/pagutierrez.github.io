@@ -1,5 +1,5 @@
 ---
-title: "Predicci&apos;on de mapas de cosecha de girasol infestado de Ridolfia segetum en im&apos;agenes remotas mediante Redes Neuronales Evolutivas de Unidad Producto"
+title: "Predicción de mapas de cosecha de girasol infestado de Ridolfia segetum en imágenes remotas mediante Redes Neuronales Evolutivas de Unidad Producto"
 collection: publications
 permalink: /publication/2007-01-01-Prediccion-de-mapas-de-cosecha-de-girasol-infestado-de-Ridolfia-segetum-en-imagenes-remotas-mediante-Redes-Neuronales-Evolutivas-de-Unidad-Producto
 date: 2007-01-01

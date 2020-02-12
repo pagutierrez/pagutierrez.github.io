@@ -1,5 +1,5 @@
 ---
-title: "Aprendizaje hibrido de redes neuronales q-Gaussianas en clasificaci&apos;on binaria"
+title: "Aprendizaje hibrido de redes neuronales q-Gaussianas en clasificación binaria"
 collection: publications
 permalink: /publication/2010-01-01-Aprendizaje-hibrido-de-redes-neuronales-q-Gaussianas-en-clasificacion-binaria
 date: 2010-01-01

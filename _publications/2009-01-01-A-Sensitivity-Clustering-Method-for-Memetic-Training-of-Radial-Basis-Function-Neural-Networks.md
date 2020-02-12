@@ -1,5 +1,5 @@
 ---
-title: "A Sensitivity Clustering Method for Memetic Training of Radial Basis Function Neural Networks"
+title: "ASensitivity Clustering Method for Memetic Training of Radial Basis Function Neural Networks"
 collection: publications
 permalink: /publication/2009-01-01-A-Sensitivity-Clustering-Method-for-Memetic-Training-of-Radial-Basis-Function-Neural-Networks
 date: 2009-01-01
