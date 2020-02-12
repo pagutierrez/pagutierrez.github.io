@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Pedro Antonio Gutiérrez"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at University of Córdoba. Main research areas: machine learning, ordinal classification, evolutionary neural networks, application of these techniques to real problems (renewable energies, precision agriculture, biomedicine...)."
+  bio              : "Assistant Professor at University of Córdoba. Main research areas: machine learning, ordinal classification, evolutionary neural networks."
   location         : "Córdoba, Spain"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=pedro+antonio+gutierrez"
