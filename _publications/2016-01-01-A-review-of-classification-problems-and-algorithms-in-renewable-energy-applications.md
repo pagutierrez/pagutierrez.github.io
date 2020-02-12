@@ -10,4 +10,4 @@ citation: ' María Pérez-Ortiz,  Silvia Jiménez-Fernández,  Pedro Antonio Gut
 ---
 JCR(2016): 2.262 Position: 45/92 (Q2) Category: ENERGY {\&amp;} FUELS
 
-[Access paper here](doi.org/10.3390/en9080607){:target="_blank"}
+[Access paper here](http://doi.org/10.3390/en9080607){:target="_blank"}

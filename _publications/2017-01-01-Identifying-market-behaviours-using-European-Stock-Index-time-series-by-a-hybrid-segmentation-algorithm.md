@@ -10,4 +10,4 @@ citation: ' Antonio Manuel Durán-Rosal,  Mónica Paz,  Pedro Antonio Gutiérrez
 ---
 JCR(2017): 1.787 Position: 63/132 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
 
-[Access paper here](doi.org/10.1007/s11063-017-9592-8){:target="_blank"}
+[Access paper here](http://doi.org/10.1007/s11063-017-9592-8){:target="_blank"}

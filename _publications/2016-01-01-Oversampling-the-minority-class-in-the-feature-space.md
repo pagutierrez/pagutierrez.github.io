@@ -10,4 +10,4 @@ citation: ' María Pérez-Ortiz,  Pedro Antonio Gutiérrez,  Peter Tino,  César
 ---
 JCR(2016): 6.108 Position: 3/104 (Q1) Category: COMPUTER SCIENCE, THEORY {\&amp;} METHODS
 
-[Access paper here](ieeexplore.ieee.org/document/7222438/){:target="_blank"}
+[Access paper here](http://ieeexplore.ieee.org/document/7222438/){:target="_blank"}
