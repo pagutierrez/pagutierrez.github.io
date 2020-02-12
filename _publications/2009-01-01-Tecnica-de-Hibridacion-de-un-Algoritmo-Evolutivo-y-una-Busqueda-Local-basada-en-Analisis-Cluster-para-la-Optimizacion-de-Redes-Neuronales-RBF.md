@@ -4,6 +4,6 @@ collection: publications
 permalink: /publication/2009-01-01-Tecnica-de-Hibridacion-de-un-Algoritmo-Evolutivo-y-una-Busqueda-Local-basada-en-Analisis-Cluster-para-la-Optimizacion-de-Redes-Neuronales-RBF
 date: 2009-01-01
 venue: 'Proceedings of VI Congreso Espa nol sobre Metaheur&apos;isticas and Algoritmos Evolutivos y Bioinspirados (MAEB09)'
-citation: ' Francisco Fernandez-Navarro,  Pedro Antonio Gutiérrez,  Manuel Cruz-Ramírez, &quot;T   apos;ecnica de Hibridaci   apos;on de un Algoritmo Evolutivo y una B   apos;usqueda Local basada en An   apos;alisis Cluster para la Optimizaci   apos;on de Redes Neuronales RBF.&quot; Proceedings of VI Congreso Espa nol sobre Metaheur   apos;isticas and Algoritmos Evolutivos y Bioinspirados (MAEB09), 2009, pp. 317–324.'
+citation: ' Francisco Fernandez-Navarro,  Pedro Antonio Gutiérrez,  Manuel Cruz-Ramírez, &quot;Técnica de Hibridación de un Algoritmo Evolutivo y una Búsqueda Local basada en Análisis Cluster para la Optimización de Redes Neuronales RBF.&quot; Proceedings of VI Congreso Espa nol sobre Metaheur&amp;apos;isticas and Algoritmos Evolutivos y Bioinspirados (MAEB09), 2009, pp. 317--324.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=T&#x27;ecnica+de+Hibridaci&#x27;on+de+un+Algoritmo+Evolutivo+y+una+B&#x27;usqueda+Local+basada+en+An&#x27;alisis+Cluster+para+la+Optimizaci&#x27;on+de+Redes+Neuronales+RBF){:target="_blank"} for full citation
