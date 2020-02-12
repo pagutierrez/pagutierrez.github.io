@@ -2,7 +2,7 @@
 title: "University of Córdoba"
 collection: teaching
 type: "Undergraduate and graduate courses"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2008-cordoba
 venue: "University of Córdoba, Deparment of Computer Science and Numerical Analysis"
 date: 2008-02-01
 location: "Córdoba, Spain"
