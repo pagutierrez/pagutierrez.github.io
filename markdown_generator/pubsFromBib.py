@@ -31,7 +31,7 @@ publist = {
     "proceeding": {
         "file" : "proceedings.bib",
         "venuekey": "booktitle",
-        "venue-pretext": "Proceedings of ",
+        "venue-pretext": "In ",
         "collection" : {"name":"proceedings",
                         "permalink":"/proceeding/"}
         
@@ -110,7 +110,7 @@ for pubsource in publist:
             citation = citation + "\"" + html_escape(LatexNodes2Text().latex_to_text(b["title"]).replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
-            venue = publist[pubsource]["venue-pretext"]+LatexNodes2Text().latex_to_text(b[publist[pubsource]["venuekey"]]).replace("{", "").replace("}","").replace("\\","")
+            venue = publist[pubsource]["venue-pretext"]+"*"+LatexNodes2Text().latex_to_text(b[publist[pubsource]["venuekey"]]).replace("{", "").replace("}","").replace("\\","")+"*"
 
             citation += " " + html_escape(venue)
             if "volume" in b.keys() and b["volume"]:

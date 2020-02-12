@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2018-01-01-Time-series-forecasting-by-recurrent-product-unit-neural-networks
 excerpt: 'JCR(2018): 4.664 Position: 21/133 (Q1) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE'
 date: 2018-01-01
-venue: 'Neural Computing and Applications'
+venue: '*Neural Computing and Applications*'
 paperurl: 'http://dx.doi.org/10.1007/s00521-016-2494-2'
-citation: ' Francisco Fernandez-Navarro,  Maria Angeles Cruz,  Pedro Antonio Gutiérrez,  Adiel Castaño-Méndez,  César Hervás-Martínez, &quot;Time series forecasting by recurrent product unit neural networks.&quot; Neural Computing and Applications, Vol.29(3), 2018, pp.779-791.'
+citation: ' Francisco Fernandez-Navarro,  Maria Angeles Cruz,  Pedro Antonio Gutiérrez,  Adiel Castaño-Méndez,  César Hervás-Martínez, &quot;Time series forecasting by recurrent product unit neural networks.&quot; *Neural Computing and Applications*, Vol.29(3), 2018, pp.779-791.'
 ---
 JCR(2018): 4.664 Position: 21/133 (Q1) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
 
