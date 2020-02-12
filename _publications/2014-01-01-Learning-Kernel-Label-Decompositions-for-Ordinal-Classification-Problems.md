@@ -1,0 +1,10 @@
+---
+title: "Learning Kernel Label Decompositions for Ordinal Classification Problems"
+collection: publications
+permalink: /publication/2014-01-01-Learning-Kernel-Label-Decompositions-for-Ordinal-Classification-Problems
+date: 2014-01-01
+venue: 'Proceedings of 6th International Conference on Neural Computation Theory and Applications (NCTA2014)'
+paperurl: 'www.ijcci.org/Program/2014/Program_Friday.htm'
+citation: ' María Pérez-Ortiz,  Pedro Antonio Gutiérrez,  César Hervás-Martínez, &quot;Learning Kernel Label Decompositions for Ordinal Classification Problems.&quot; Proceedings of 6th International Conference on Neural Computation Theory and Applications (NCTA2014), 2014, pp. 218-225.'
+---
+[Access paper here](http://www.ijcci.org/Program/2014/Program_Friday.htm){:target="_blank"}
