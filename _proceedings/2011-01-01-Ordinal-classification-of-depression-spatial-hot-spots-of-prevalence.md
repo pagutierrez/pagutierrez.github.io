@@ -4,6 +4,6 @@ collection: proceedings
 permalink: /proceeding/2011-01-01-Ordinal-classification-of-depression-spatial-hot-spots-of-prevalence
 date: 2011-01-01
 venue: 'In 11th International Conference on Intelligent Systems Design andApplications (ISDA 2011)'
-citation: 'Marıa Prez-Ortiz, Pedro Antonio Gutirrez, Carlos Garcıa-Alonso, L. Salvador Carulla, J.A. Salinas Prez, Csar Hervs-Martınez, &quot;Ordinal classification of depression spatial hot-spots of prevalence.&quot; In 11th International Conference on Intelligent Systems Design andApplications (ISDA 2011), 2011, pp.1170-1175.'
+citation: 'María Pérez-Ortiz, <strong>Pedro Antonio Gutiérrez</strong>, Carlos García-Alonso, L. Salvador Carulla, J.A. Salinas Pérez, César Hervás-Martínez, &quot;Ordinal classification of depression spatial hot-spots of prevalence.&quot; In 11th International Conference on Intelligent Systems Design andApplications (ISDA 2011), 2011, pp.1170-1175.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Ordinal+classification+of+depression+spatial+hot+spots+of+prevalence){:target="_blank"} for full citation

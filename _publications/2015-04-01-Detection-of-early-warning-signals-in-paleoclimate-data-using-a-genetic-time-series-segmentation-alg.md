@@ -6,7 +6,7 @@ excerpt: 'JCR (2015): 4.708 Position: 8/84 (Q1) Category: METEOROLOGY &amp; ATMO
 date: 2015-04-01
 venue: 'Climate Dynamics'
 paperurl: 'http://dx.doi.org/10.1007/s00382-014-2405-0'
-citation: 'Athanasia Nikolaou, Pedro Antonio Gutirrez, Antonio Manuel Durn-Rosal, Isabelle Dicaire, Francisco Fernandez-Navarro, Csar Hervs-Martınez, &quot;Detection of early warning signals in paleoclimate data using a genetic time series segmentation algorithm.&quot; Climate Dynamics, Vol. 44(7--8), 2015, pp.1919--1933.'
+citation: 'Athanasia Nikolaou, <strong>Pedro Antonio Gutiérrez</strong>, Antonio Manuel Durán-Rosal, Isabelle Dicaire, Francisco Fernandez-Navarro, César Hervás-Martínez, &quot;Detection of early warning signals in paleoclimate data using a genetic time series segmentation algorithm.&quot; Climate Dynamics, Vol. 44(7--8), 2015, pp.1919--1933.'
 ---
 JCR (2015): 4.708 Position: 8/84 (Q1) Category: METEOROLOGY {\&amp;} ATMOSPHERIC SCIENCES
 
