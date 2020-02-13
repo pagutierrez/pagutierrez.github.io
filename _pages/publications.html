@@ -15,6 +15,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
+    </br>
     <h1 id="{{ year | slugify }}" class="archive__title">{{ year }}</h1>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
