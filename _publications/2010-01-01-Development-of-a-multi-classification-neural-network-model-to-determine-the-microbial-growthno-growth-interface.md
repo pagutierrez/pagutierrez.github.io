@@ -6,7 +6,7 @@ excerpt: 'JCR (2010): 3.143 (category FOOD SCIENCE {\&amp;} TECHNOLOGY, position
 date: 2010-01-01
 venue: 'International Journal of Food Microbiology'
 paperurl: 'http://dx.doi.org/10.1016/j.ijfoodmicro.2010.05.013'
-citation: ' Francisco Fernandez-Navarro,  A. Valero,  César Hervás-Martínez,  Pedro Antonio Gutiérrez,  R.M García Gimeno,  G. Zurera Cosano, &quot;Development of a multi-classification neural network model to determine the microbial growth/no growth interface.&quot; International Journal of Food Microbiology, Vol. 141(3), 2010, pp.203--212.'
+citation: 'Francisco Fernandez-Navarro, A. Valero, César Hervás-Martínez, **Pedro Antonio Gutiérrez, **R.M García Gimeno, G. Zurera Cosano, &quot;Development of a multi-classification neural network model to determine the microbial growth/no growth interface.&quot; International Journal of Food Microbiology, Vol. 141(3), 2010, pp.203--212.'
 ---
 JCR (2010): 3.143 (category FOOD SCIENCE {\&amp;} TECHNOLOGY, position 2/128 Q1)
 

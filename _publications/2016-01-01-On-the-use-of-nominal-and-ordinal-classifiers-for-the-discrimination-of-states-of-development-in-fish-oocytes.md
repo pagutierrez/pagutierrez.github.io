@@ -6,7 +6,7 @@ excerpt: 'JCR(2016): 1.620 Position: 74/133 (Q3) Category: COMPUTER SCIENCE, ART
 date: 2016-01-01
 venue: 'Neural Processing Letters'
 paperurl: 'http://dx.doi.org/10.1007/s11063-015-9476-8'
-citation: ' María Pérez-Ortiz,  M. Fernández-Delgado,  E. Cernadas,  R. Domínguez-Petit,  Pedro Antonio Gutiérrez,  César Hervás-Martínez, &quot;On the use of nominal and ordinal classifiers for the discrimination of states of development in fish oocytes.&quot; Neural Processing Letters, Vol. 44(2), 2016, pp.555–570.'
+citation: 'María Pérez-Ortiz, M. Fernández-Delgado, E. Cernadas, R. Domínguez-Petit, **Pedro Antonio Gutiérrez, **César Hervás-Martínez, &quot;On the use of nominal and ordinal classifiers for the discrimination of states of development in fish oocytes.&quot; Neural Processing Letters, Vol. 44(2), 2016, pp.555–570.'
 ---
 JCR(2016): 1.620 Position: 74/133 (Q3) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
 
