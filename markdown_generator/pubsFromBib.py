@@ -132,9 +132,10 @@ for pubsource in publist:
                 if author.middle_names:
                     citation += LatexNodes2Text().latex_to_text(author.first_names[0])+" "+LatexNodes2Text().latex_to_text(author.middle_names[0])+" "+LatexNodes2Text().latex_to_text(author.last_names[0])+", "
                 else:
-                    citation += LatexNodes2Text().latex_to_text(author.first_names[0])+" "+LatexNodes2Text().latex_to_text(author.last_names[0])+", "
+                    citation += LatexNodes2Text().latex_to_text(author.first_names[0])+" "+LatexNodes2Text().latex_to_text(author.last_names[0])
                 if "pedro" in LatexNodes2Text().latex_to_text(author.first_names[0]).lower() and "antonio" in LatexNodes2Text().latex_to_text(author.middle_names[0]).lower() and "gutiérrez" in LatexNodes2Text().latex_to_text(author.last_names[0]).lower():
                     citation += "**"
+                citation += ", "
 
             #citation title
             citation = citation + "\"" + html_escape(LatexNodes2Text().latex_to_text(b["title"]).replace("{", "").replace("}","").replace("\\","")) + ".\""
