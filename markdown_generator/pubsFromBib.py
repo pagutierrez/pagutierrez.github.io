@@ -142,7 +142,7 @@ for pubsource in publist:
             if "series" in b.keys() and b["series"]:
                 citation += ", " + html_escape(LatexNodes2Text().latex_to_text(b["series"]))
             if "volume" in b.keys() and b["volume"]:
-                citation += ", Vol." + b["volume"]
+                citation += ", Vol. " + b["volume"]
             if "number" in b.keys() and b["number"]:
                 citation += "(" + b["number"] + ")"
             citation += ", " + pub_year
