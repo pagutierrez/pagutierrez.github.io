@@ -6,7 +6,7 @@ excerpt: 'JCR (2010): 1.512 (category COMPUTER SCIENCE, INTERDISCIPLINARY APPLIC
 date: 2010-01-01
 venue: 'Soft Computing'
 paperurl: 'http://dx.doi.org/10.1007/s00500-009-0429-x'
-citation: '**Pedro Antonio Gutiérrez, **, César Hervás-Martínez, M. Lozano, &quot;Designing Multilayer Perceptrons using a Guided Saw-tooth Evolutionary Programming Algorithm.&quot; Soft Computing, Vol. 14(6), 2010, pp.599--613.'
+citation: '**Pedro Antonio Gutiérrez**, César Hervás-Martínez, M. Lozano, &quot;Designing Multilayer Perceptrons using a Guided Saw-tooth Evolutionary Programming Algorithm.&quot; Soft Computing, Vol. 14(6), 2010, pp.599--613.'
 ---
 JCR (2010): 1.512 (category COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS, position 41/97 Q2)
 
