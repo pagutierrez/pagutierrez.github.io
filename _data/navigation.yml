@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Journal Articles"
     url: /publications/
 
-  - title: "Proceedings"
+  - title: "Conference Proceedings"
     url: /proceedings/
 
 #  - title: "Talks"
