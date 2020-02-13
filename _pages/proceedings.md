@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Proceedings"
+title: "Conference Proceedings"
 permalink: /proceedings/
 author_profile: true
 ---
