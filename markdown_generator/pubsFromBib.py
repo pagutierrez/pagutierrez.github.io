@@ -70,6 +70,8 @@ for pubsource in publist:
         b = bibdata.entries[bib_id].fields
         
         try:
+            if not "year" in b.keys(): 
+                print(b)
             pub_year = f'{b["year"]}'
 
             #todo: this hack for month and day needs some cleanup
@@ -177,7 +179,7 @@ for pubsource in publist:
 
             md += "\ndate: " + str(pub_date) 
 
-            md += "\nvenue: '" + html_escape(LatexNodes2Text().latex_to_text(venue)) + "'"
+            md += "\nvenue: '" + html_escape(venue) + "'"
             
             url = False
             if "url" in b.keys():

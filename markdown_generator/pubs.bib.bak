@@ -373,7 +373,7 @@ year = "2017",
 }
 
 
-@article{Duran2017ESWH,
+@article{Durán2017ESWH,
 author = "Antonio Manuel Dur{\'a}n-Rosal and Juan Carlos Fern{\'a}ndez and Pedro Antonio Guti{\'e}rrez and C{\'e}sar Herv{\'a}s-Mart{\'i}nez",
 abstract = "This paper presents a methodology for the detection and prediction of Segments containing very high Significant Wave Height (SSWH) values in oceans. This kind of prediction is needed in order to account for potential changes in a long-term future operational environment of marine and coastal structures. The methodology firstly characterizes the wave height time series by approximating it using a sequence of labeled segments, and then a binary classifier is trained to predict the occurrence of SSWH periods based on past height values. A genetic algorithm (GA) combined with a likelihood-based local search is proposed for the first stage (detection), and the second stage (prediction) is tackled by an Artificial Neural Network (ANN) trained with a Multiobjective Evolutionary Algorithm (MOEA). Given the unbalanced nature of the dataset (SSWH are rarer than non SSWH), the MOEA is specifically designed to obtain a balance between global accuracy and individual sensitivities for both classes. The results obtained show that the GA is able to group SSWH in a specific cluster of segments and that the MOEA obtains ANN models able to perform an acceptable prediction of these SSWH.",
 awards = "JCR(2017): 2.214 Position: 2/14 (Q1) Category: ENGINEERING, MARINE",
