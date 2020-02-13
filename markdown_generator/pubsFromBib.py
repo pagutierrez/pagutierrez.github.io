@@ -82,6 +82,32 @@ for pubsource in publist:
             #        pub_month = "{:02d}".format(tmnth) 
             #    else:
             #        pub_month = str(b["month"])
+            if "month" in b.keys(): 
+                mes = b["month"]
+                if "jan" in mes.lower() or  "ene" in mes.lower():
+                    pub_month = "01"
+                if "feb" in mes.lower():
+                    pub_month = "02"
+                if "mar" in mes.lower():
+                    pub_month = "03"
+                if "apr" in mes.lower() or  "abr" in mes.lower():
+                    pub_month = "04"
+                if "may" in mes.lower():
+                    pub_month = "05"
+                if "jun" in mes.lower():
+                    pub_month = "06"
+                if "jul" in mes.lower():
+                    pub_month = "07"
+                if "aug" in mes.lower() or  "ago" in mes.lower():
+                    pub_month = "08"
+                if "sep" in mes.lower():
+                    pub_month = "09"
+                if "oct" in mes.lower():
+                    pub_month = "10"
+                if "nov" in mes.lower():
+                    pub_month = "11"
+                if "dec" in mes.lower() or  "dic" in mes.lower():
+                    pub_month = "12"
             if "day" in b.keys(): 
                 pub_day = str(b["day"])
                 
@@ -110,9 +136,11 @@ for pubsource in publist:
             citation = citation + "\"" + html_escape(LatexNodes2Text().latex_to_text(b["title"]).replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
-            venue = publist[pubsource]["venue-pretext"]+"*"+LatexNodes2Text().latex_to_text(b[publist[pubsource]["venuekey"]]).replace("{", "").replace("}","").replace("\\","")+"*"
+            venue = publist[pubsource]["venue-pretext"]+LatexNodes2Text().latex_to_text(b[publist[pubsource]["venuekey"]]).replace("{", "").replace("}","").replace("\\","")
 
             citation += " " + html_escape(venue)
+            if "series" in b.keys() and b["series"]:
+                citation += ", " + html_escape(LatexNodes2Text().latex_to_text(b["series"]))
             if "volume" in b.keys() and b["volume"]:
                 citation += ", Vol." + b["volume"]
             if "number" in b.keys() and b["number"]:
