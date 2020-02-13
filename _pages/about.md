@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Pedro Antonio Gutiérrez"
-excerpt: "About me"
+excerpt: "Assistant Professor at the University of Córdoba"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently an Assistant Professor in the Department of Computer Science and Numerical Analysis, University of Córdoba. 
+I am Assistant Professor in the Department of Computer Science and Numerical Analysis, University of Córdoba. 
 
 My current research interests include: machine learning, ordinal classification, evolutionary neural networks, application of these techniques to real problems (renewable energies, precision agriculture, biomedicine...). I am a member of the [AYRNA](http://www.uco.es/grupos/ayrna/index.php/en) research group.
 
