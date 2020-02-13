@@ -5,6 +5,6 @@ permalink: /proceeding/2016-12-01-Machine-Learning-paradigms-for-Weed-Mapping-vi
 date: 2016-12-01
 venue: 'In 2016 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2016)'
 paperurl: 'http://doi.org/10.1109/SSCI.2016.7849987'
-citation: 'María Pérez-Ortiz, <strong>Pedro Antonio Gutiérrez</strong>, J.M. Peña, J. Torres-Sánchez, F. López-Granados, C. Hervás-Martínez, &quot;Machine Learning paradigms for Weed Mapping via Unmanned Aerial Vehicles.&quot; In 2016 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2016), 2016, Athens, Greece, pp.1--8.'
+citation: 'Marıa Prez-Ortiz, Pedro Antonio Gutirrez, J.M. Peña, J. Torres-Snchez, F. Løpez-Granados, C. Hervs-Martınez, &quot;Machine Learning paradigms for Weed Mapping via Unmanned Aerial Vehicles.&quot; In 2016 IEEE Symposium Series on Computational Intelligence (IEEE SSCI 2016), 2016, Athens, Greece, pp.1--8.'
 ---
 [Access paper here](http://doi.org/10.1109/SSCI.2016.7849987){:target="_blank"}

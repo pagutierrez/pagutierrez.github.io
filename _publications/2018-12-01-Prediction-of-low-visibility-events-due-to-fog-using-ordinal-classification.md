@@ -6,7 +6,7 @@ excerpt: 'JCR(2018): 4.114 Position: 13/86 (Q1) Category: METEOROLOGY &amp; ATMO
 date: 2018-12-01
 venue: 'Atmospheric Research'
 paperurl: 'http://doi.org/10.1016/j.atmosres.2018.07.017'
-citation: 'David Guijo-Rubio, <strong>Pedro Antonio Gutiérrez</strong>, Carlos Casanova-Mateo, Julia Sanz-Justo, Sancho Salcedo-Sanz, César Hervás-Martínez, &quot;Prediction of low-visibility events due to fog using ordinal classification.&quot; Atmospheric Research, Vol. 214, 2018, pp.64-73.'
+citation: 'David Guijo-Rubio, Pedro Antonio Gutirrez, Carlos Casanova-Mateo, Julia Sanz-Justo, Sancho Salcedo-Sanz, Csar Hervs-Martınez, &quot;Prediction of low-visibility events due to fog using ordinal classification.&quot; Atmospheric Research, Vol. 214, 2018, pp.64-73.'
 ---
 JCR(2018): 4.114 Position: 13/86 (Q1) Category: METEOROLOGY {\&amp;} ATMOSPHERIC SCIENCES
 

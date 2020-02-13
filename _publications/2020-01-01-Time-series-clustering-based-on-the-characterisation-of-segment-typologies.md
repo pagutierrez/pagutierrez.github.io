@@ -6,7 +6,7 @@ excerpt: 'JCR(2018): 10.387 Position: 4/134 (Q1) Category: COMPUTER SCIENCE, ART
 date: 2020-01-01
 venue: 'IEEE Transactions on Cybernetics'
 paperurl: 'http://doi.org/10.1109/TCYB.2019.2962584'
-citation: 'David Guijo-Rubio, Antonio Manuel Durán-Rosal, <strong>Pedro Antonio Gutiérrez</strong>, Alicia Troncoso, César Hervás-Martínez, &quot;Time series clustering based on the characterisation of segment typologies.&quot; IEEE Transactions on Cybernetics, Vol. Accepted on 22th December 2019, 2020.'
+citation: 'David Guijo-Rubio, Antonio Manuel Durn-Rosal, Pedro Antonio Gutirrez, Alicia Troncoso, Csar Hervs-Martınez, &quot;Time series clustering based on the characterisation of segment typologies.&quot; IEEE Transactions on Cybernetics, Vol. Accepted on 22th December 2019, 2020.'
 ---
 JCR(2018): 10.387 Position: 4/134 (Q1) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
 

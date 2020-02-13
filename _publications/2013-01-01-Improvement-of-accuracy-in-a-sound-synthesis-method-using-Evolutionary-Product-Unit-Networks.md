@@ -6,7 +6,7 @@ excerpt: 'JCR (2013): 1.965 (category OPERATIONS RESEARCH &amp; MANAGEMENT SCIEN
 date: 2013-01-01
 venue: 'Expert Systems with Applications'
 paperurl: 'http://dx.doi.org/10.1016/j.eswa.2012.08.041'
-citation: 'M. D. Redel-Macías, Francisco Fernandez-Navarro, <strong>Pedro Antonio Gutiérrez</strong>, A. J. Cubero-Atienza, César Hervás-Martínez, &quot;Improvement of accuracy in a sound synthesis method using Evolutionary Product Unit Networks.&quot; Expert Systems with Applications, Vol. 40(5), 2013, pp.1477--1483.'
+citation: 'M. D. Redel-Macıas, Francisco Fernandez-Navarro, Pedro Antonio Gutirrez, A. J. Cubero-Atienza, Csar Hervs-Martınez, &quot;Improvement of accuracy in a sound synthesis method using Evolutionary Product Unit Networks.&quot; Expert Systems with Applications, Vol. 40(5), 2013, pp.1477--1483.'
 ---
 JCR (2013): 1.965 (category OPERATIONS RESEARCH {\&amp;} MANAGEMENT SCIENCE, position 11/79 Q1)
 
