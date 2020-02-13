@@ -141,6 +141,7 @@ for pubsource in publist:
                     citation += "</strong>"
                 citation += ", "
 
+            citation = citation.replace("Á","A").replace("É","E").replace("Í","I").replace("Ó","O").replace("Ú","U")
             #citation title
             citation += "\"" + html_escape(LatexNodes2Text().latex_to_text(b["title"]).replace("{", "").replace("}","").replace("\\","")) + ".\""
 
