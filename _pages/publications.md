@@ -12,5 +12,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
+  
+  {{ post.published_at | date: "%a, %b %d, %y" }}
   {% include archive-single.html %}
 {% endfor %}
