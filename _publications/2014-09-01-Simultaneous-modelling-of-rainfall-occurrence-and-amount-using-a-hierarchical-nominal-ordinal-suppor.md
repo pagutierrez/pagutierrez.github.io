@@ -6,7 +6,7 @@ excerpt: 'JCR(2014): 2.207 Position: 12/83 (Q1) Category: ENGINEERING, MULTIDISC
 date: 2014-09-01
 venue: 'Engineering Applications of Artificial Intelligence'
 paperurl: 'http://dx.doi.org/10.1016/j.engappai.2014.05.016'
-citation: 'Javier Sánchez-Monedero, Sancho Salcedo-Sanz, **Pedro Antonio Gutiérrez**, Carlos Casanova Mateo, César Hervás-Martínez, &quot;Simultaneous modelling of rainfall occurrence and amount using a hierarchical nominal-ordinal support vector classifier.&quot; Engineering Applications of Artificial Intelligence, Vol. 34, 2014, pp.199-207.'
+citation: 'Javier Sánchez-Monedero, Sancho Salcedo-Sanz, <strong>Pedro Antonio Gutiérrez</strong>, Carlos Casanova Mateo, César Hervás-Martínez, &quot;Simultaneous modelling of rainfall occurrence and amount using a hierarchical nominal-ordinal support vector classifier.&quot; Engineering Applications of Artificial Intelligence, Vol. 34, 2014, pp.199-207.'
 ---
 JCR(2014): 2.207 Position: 12/83 (Q1) Category: ENGINEERING, MULTIDISCIPLINARY
 

@@ -130,17 +130,17 @@ for pubsource in publist:
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
                 if "pedro" in LatexNodes2Text().latex_to_text(author.first_names[0]).lower() and "antonio" in LatexNodes2Text().latex_to_text(author.middle_names[0]).lower() and "gutiérrez" in LatexNodes2Text().latex_to_text(author.last_names[0]).lower():
-                    citation += "**"
+                    citation += "<strong>"
                 if author.middle_names:
                     citation += LatexNodes2Text().latex_to_text(author.first_names[0])+" "+LatexNodes2Text().latex_to_text(author.middle_names[0])+" "+LatexNodes2Text().latex_to_text(author.last_names[0])
                 else:
                     citation += LatexNodes2Text().latex_to_text(author.first_names[0])+" "+LatexNodes2Text().latex_to_text(author.last_names[0])
                 if "pedro" in LatexNodes2Text().latex_to_text(author.first_names[0]).lower() and "antonio" in LatexNodes2Text().latex_to_text(author.middle_names[0]).lower() and "gutiérrez" in LatexNodes2Text().latex_to_text(author.last_names[0]).lower():
-                    citation += "**"
+                    citation += "</strong>"
                 citation += ", "
 
             #citation title
-            citation = citation + "\"" + html_escape(LatexNodes2Text().latex_to_text(b["title"]).replace("{", "").replace("}","").replace("\\","")) + ".\""
+            citation += "\"" + html_escape(LatexNodes2Text().latex_to_text(b["title"]).replace("{", "").replace("}","").replace("\\","")) + ".\""
 
             #add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+LatexNodes2Text().latex_to_text(b[publist[pubsource]["venuekey"]]).replace("{", "").replace("}","").replace("\\","")
@@ -172,7 +172,7 @@ for pubsource in publist:
             note = False
             if "note" in b.keys():
                 if len(str(b["note"])) > 5:
-                    md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
+                    md += "\nexcerpt: '" + html_escape(LatexNodes2Text().latex_to_text(b["note"])) + "'"
                     note = True
 
             md += "\ndate: " + str(pub_date) 
