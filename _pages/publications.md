@@ -13,6 +13,15 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   
-  {{ post.published_at | date: "%a, %b %d, %y" }}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% capture written_year %}'None'{% endcapture %}
+{% for post in site.publications %}
+  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+  {% if year != written_year %}
+    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+    {% capture written_year %}{{ year }}{% endcapture %}
+  {% endif %}
   {% include archive-single.html %}
 {% endfor %}
