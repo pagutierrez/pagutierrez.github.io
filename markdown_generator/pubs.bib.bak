@@ -36,6 +36,25 @@ year = "2022",
 }
 
 
+@article{DeepOrdinalClassificationAAQ2022,
+author = "Riccardo Rosati and Luca Romeo and V{\'i}ctor Manuel Vargas-Yun and Pedro Antonio Guti{\'e}rrez and C{\'e}sar Herv{\'a}s-Mart{\'i}nez and Emanuele Frontoni",
+abstract = "Nowadays, decision support systems (DSSs) are widely used in several application domains, from industrial to healthcare and medicine fields. Concerning the industrial scenario, we propose a DSS oriented to the aesthetic quality control (AQC) task, which has quickly established itself as one of the most crucial challenges of Industry 4.0. Taking into account the increasing amount of data in this domain, the application of machine learning (ML) and deep learning (DL) techniques offers great opportunities to automatize the overall AQC process. State-of-the-art is mainly oriented to approach this problem with a nominal DL classification method which does not exploit the ordinal structure of the AQC task, thus not penalizing the error among distant AQC classes (which is a relevant aspect for the real use case). The paper introduces a DL ordinal methodology for the AQC classification. Differently from other deep ordinal methods, we combined the standard categorical cross-entropy with the cumulative link model and we imposed the ordinal constraint via the thresholds and slope parameters. Experimental results were performed for solving an AQC task on a novel image dataset originated from a specific company's demand (i.e., aesthetic assessment of wooden stocks). We demonstrated how the proposed methodology is able to reduce misclassification errors (up to 0.937 quadratic weight kappa loss) among distant classes while overcoming other state-of-the-art deep ordinal models and reducing the bias factor related to the item geometry. The proposed DL approach was integrated as the main core of a DSS supported by Internet of Things (IoT) architecture that can support the human operator by reducing up to 90% the time needed for the qualitative analysis carried out manually in this specific domain.",
+awards = "JCR (2021): 5.102 Position: 45/144 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
+comments = "JCR (2021): 5.102 Position: 45/144 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
+doi = "10.1007/s00521-022-07050-6",
+issn = "0941-0643",
+journal = "Neural Computing and Applications",
+keywords = "Ordinal classification, Deep ordinal models, Quality control, Decision support system",
+month = "March",
+note = "JCR (2021): 5.102 Position: 45/144 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
+pages = "11625--11639",
+title = "{A} {N}ovel {D}eep {O}rdinal {C}lassification {A}pproach for {A}esthetic {Q}uality {C}ontrol {C}lassification",
+url = "dx.doi.org/10.1007/s00521-022-07050-6",
+volume = "34",
+year = "2022",
+}
+
+
 @article{PRUnimodal2022,
 author = "V{\'i}ctor Manuel Vargas-Yun and Pedro Antonio Guti{\'e}rrez and C{\'e}sar Herv{\'a}s-Mart{\'i}nez",
 abstract = "Currently, the use of deep learning for solving ordinal classification problems, where categories follow a natural order, has not received much attention. In this paper, we propose an unimodal regularisation based on the beta distribution applied to the cross-entropy loss. This regularisation encourages the distribution of the labels to be a soft unimodal distribution, more appropriate for ordinal problems. Given that the beta distribution has two parameters that must be adjusted, a method to automatically determine them is proposed. The regularised loss function is used to train a deep neural network model with an ordinal scheme in the output layer. The results obtained are statistically analysed and show that the combination of these methods increases the performance in ordinal problems. Moreover, the proposed beta distribution performs better than other distributions proposed in previous works, achieving also a reduced computational cost.",
@@ -51,24 +70,6 @@ pages = "108310",
 title = "{U}nimodal regularisation based on beta distribution for deep ordinal regression",
 url = "doi.org/10.1016/j.patcog.2021.108310",
 volume = "122",
-year = "2022",
-}
-
-
-@article{DeepOrdinalClassificationAAQ2022,
-author = "Riccardo Rosati and Luca Romeo and V{\'i}ctor Manuel Vargas-Yun and Pedro Antonio Guti{\'e}rrez and C{\'e}sar Herv{\'a}s-Mart{\'i}nez and Emanuele Frontoni",
-abstract = "Nowadays, decision support systems (DSSs) are widely used in several application domains, from industrial to healthcare and medicine fields. Concerning the industrial scenario, we propose a DSS oriented to the aesthetic quality control (AQC) task, which has quickly established itself as one of the most crucial challenges of Industry 4.0. Taking into account the increasing amount of data in this domain, the application of machine learning (ML) and deep learning (DL) techniques offers great opportunities to automatize the overall AQC process. State-of-the-art is mainly oriented to approach this problem with a nominal DL classification method which does not exploit the ordinal structure of the AQC task, thus not penalizing the error among distant AQC classes (which is a relevant aspect for the real use case). The paper introduces a DL ordinal methodology for the AQC classification. Differently from other deep ordinal methods, we combined the standard categorical cross-entropy with the cumulative link model and we imposed the ordinal constraint via the thresholds and slope parameters. Experimental results were performed for solving an AQC task on a novel image dataset originated from a specific companys demand (i.e., aesthetic assessment of wooden stocks). We demonstrated how the proposed methodology is able to reduce misclassification errors (up to 0.937 quadratic weight kappa loss) among distant classes while overcoming other state-of-the-art deep ordinal models and reducing the bias factor related to the item geometry. The proposed DL approach was integrated as the main core of a DSS supported by Internet of Things (IoT) architecture that can support the human operator by reducing up to 90% the time needed for the qualitative analysis carried out manually in this specific domain.",
-awards = "JCR (2021): 5.102 Position: 45/144 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
-comments = "JCR (2021): 5.102 Position: 45/144 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
-doi = "10.1007/s00521-022-07050-6",
-issn = "0941-0643",
-journal = "Neural Computing and Applications",
-keywords = "Ordinal classification, Deep ordinal models, Quality control, Decision support system",
-month = "January",
-note = "JCR (2021): 5.102 Position: 45/144 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
-pages = "1-15",
-title = "{A} {N}ovel {D}eep {O}rdinal {C}lassification {A}pproach for {A}esthetic {Q}uality {C}ontrol {C}lassification",
-url = "dx.doi.org/10.1007/s00521-022-07050-6",
 year = "2022",
 }
 
@@ -149,7 +150,7 @@ year = "2022",
 
 @article{BarberoCNNParkinsonESWA,
 author = "Javier Barbero-G{\'o}mez and Pedro Antonio Guti{\'e}rrez and V{\'i}ctor Manuel Vargas-Yun and Juan-Antonio Vallejo-Casas and C{\'e}sar Herv{\'a}s-Mart{\'i}nez",
-abstract = "3D image scans are an assessment tool for neurological damage in Parkinsons disease (PD) patients. This diagnosis process can be automatized to help medical staff through Decision Support Systems (DSSs), and Convolutional Neural Networks (CNNs) are good candidates, because they are effective when applied to spatial data. This paper proposes a 3D CNN ordinal model for assessing the level or neurological damage in PD patients. Given that CNN need large datasets to achieve acceptable performance, a data augmentation method is adapted to work with spatial data. We consider the Ordinal Graph-based Oversampling via Shortest Paths (OGO-SP) OGO-SP method, which applies a gamma probability distribution for inter-class data generation. A modification of OGO-SP is proposed, the OGO-SP-B algorithm, which applies the beta distribution for generating synthetic samples in the inter-class region, a better suited distribution when compared to gamma. The evaluation of the different methods is based on a novel 3D image dataset provided by the Hospital Universitario Reina Sof{\'i}a (C{\'o}rdoba, Spain). We show how the ordinal methodology improves the performance with respect to the nominal one, and how OGO-SP-B yields better performance than OGO-SP.",
+abstract = "3D image scans are an assessment tool for neurological damage in Parkinson's disease (PD) patients. This diagnosis process can be automatized to help medical staff through Decision Support Systems (DSSs), and Convolutional Neural Networks (CNNs) are good candidates, because they are effective when applied to spatial data. This paper proposes a 3D CNN ordinal model for assessing the level or neurological damage in PD patients. Given that CNN need large datasets to achieve acceptable performance, a data augmentation method is adapted to work with spatial data. We consider the Ordinal Graph-based Oversampling via Shortest Paths (OGO-SP) OGO-SP method, which applies a gamma probability distribution for inter-class data generation. A modification of OGO-SP is proposed, the OGO-SP-beta algorithm, which applies the beta distribution for generating synthetic samples in the inter-class region, a better suited distribution when compared to gamma. The evaluation of the different methods is based on a novel 3D image dataset provided by the Hospital Universitario Reina Sof{\'i}a (C{\'o}rdoba, Spain). We show how the ordinal methodology improves the performance with respect to the nominal one, and how OGO-SP-beta yields better performance than OGO-SP.",
 awards = "JCR(2021): 8.665 Position: 21/144 (Q1) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
 comments = "JCR(2021): 8.665 Position: 21/144 (Q1) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE",
 doi = "10.1016/j.eswa.2021.115271",
@@ -222,7 +223,7 @@ year = "2021",
 
 
 @article{PLOSPulmon2021,
-author = "Jos{\'e} Mar{\'i}a Due{\~n}as-Jurado and Pedro Antonio Guti{\'e}rrez and A. Casado-Adam and F. Santos-Luna and {\'A}ngel Salvatierra-Vel{\'a}zquez and S. C{\'a}rcel and C.J.C. Robles-Arista and C{\'e}sar Herv{\'a}s-Mart{\'i}nez",
+author = "Due{\~n}as-Jurado, Jos{\'e} Mar{\'i}a and Pedro Antonio Guti{\'e}rrez and A. Casado-Adam and F. Santos-Luna and {\'A}ngel Salvatierra-Vel{\'a}zquez and S. C{\'a}rcel and C.J.C. Robles-Arista and C{\'e}sar Herv{\'a}s-Mart{\'i}nez",
 awards = "JCR(2021): 3.752 Position: 29/73 (Q2) Category: MULTIDISCIPLINARY SCIENCES",
 comments = "JCR(2021): 3.752 Position: 29/73 (Q2) Category: MULTIDISCIPLINARY SCIENCES",
 doi = "10.1371/journal.pone.0252148",

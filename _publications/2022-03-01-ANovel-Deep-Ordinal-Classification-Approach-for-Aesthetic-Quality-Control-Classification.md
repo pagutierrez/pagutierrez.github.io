@@ -1,0 +1,13 @@
+---
+title: "ANovel Deep Ordinal Classification Approach for Aesthetic Quality Control Classification"
+collection: publications
+permalink: /publication/2022-03-01-ANovel-Deep-Ordinal-Classification-Approach-for-Aesthetic-Quality-Control-Classification
+excerpt: 'JCR (2021): 5.102 Position: 45/144 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE'
+date: 2022-03-01
+venue: 'Neural Computing and Applications'
+paperurl: 'http://dx.doi.org/10.1007/s00521-022-07050-6'
+citation: 'Riccardo Rosati, Luca Romeo, Víctor Manuel Vargas-Yun, <strong>Pedro Antonio Gutiérrez</strong>, César Hervás-Martínez, Emanuele Frontoni, &quot;ANovel Deep Ordinal Classification Approach for Aesthetic Quality Control Classification.&quot; Neural Computing and Applications, Vol. 34, 2022, pp.11625--11639.'
+---
+JCR (2021): 5.102 Position: 45/144 (Q2) Category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE
+
+[Access paper here](http://dx.doi.org/10.1007/s00521-022-07050-6){:target="_blank"}
