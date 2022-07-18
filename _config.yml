@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Pedro Antonio Gutiérrez"
 description              : &description "Assistant Professor at University of Córdoba"
 url                      : https://www.uco.es # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/users/i02gupep/" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/users/i02gupep" # the subpath of your site, e.g. "/blog"
 repository               : "pagutierrez/pagutierrez.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
